@@ -140,3 +140,17 @@ for (i in 1:6) {
   
   assign(paste0("Merged_gp", i), merged_df, envir = .GlobalEnv)
 }
+
+# write cleaned data
+
+for (i in 1:6) {
+  
+  df_name <- paste0("Merged_gp", i)
+  df <- get(df_name)
+  
+  write.csv(
+    df,
+    file = paste0("Merged_gp", i, ".csv"),
+    row.names = FALSE
+  )
+}
