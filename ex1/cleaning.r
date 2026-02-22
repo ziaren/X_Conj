@@ -143,14 +143,15 @@ for (i in 1:6) {
 
 # write cleaned data
 
-for (i in 1:6) {
-  
-  df_name <- paste0("Merged_gp", i)
-  df <- get(df_name)
-  
-  write.csv(
-    df,
-    file = paste0("Merged_gp", i, ".csv"),
-    row.names = FALSE
-  )
-}
+ex1_cleaned <- bind_rows(
+  Merged_gp1,
+  Merged_gp2,
+  Merged_gp3,
+  Merged_gp4,
+  Merged_gp5,
+  Merged_gp6
+)
+
+library(readr)
+write_csv(ex1_cleaned, "ex1_cleaned.csv")
+
