@@ -1,0 +1,2521 @@
+participant_id,Group,Questions,Response,DISPLAY,PROMPT,QUESTION,Picture
+group_1_1,1,Q1,Completely false,0,AND,Q68,LalaLokiMaxLuna
+group_1_1,1,Q2,Completely true,1,LESS,C1,MiaLalaLeoCoco
+group_1_1,1,Q3,Completely true,4,ALL,Q72,LokiLeoCocoMilo
+group_1_1,1,Q4,Completely true,3,MORE,C2,LunaMiloMiaLoki
+group_1_1,1,Q5,Completely false,2,ALL,Q73,LeoMaxNalaMia
+group_1_1,1,Q6,Completely false,1,FEW,C3,MiaCocoLalaTom
+group_1_1,1,Q7,Completely false,0,ALL,T1,MaxCocoLunaTom
+group_1_1,1,Q8,Completely false,4,LESS,C4,NalaLokiMiloLuna
+group_1_1,1,Q9,Completely true,4,AND,Q76,CocoNalaMiloLala
+group_1_1,1,Q10,Completely false,1,MORE,C5,MaxTomNalaCoco
+group_1_1,1,Q11,Neither completely true nor completely false,2,AND,T2,NalaLunaMiaLoki
+group_1_1,1,Q12,Completely false,2,MANY,C6,MiloMiaTomLeo
+group_1_1,1,Q13,Completely false,0,AND,Q71,LunaMiloTomLeo
+group_1_1,1,Q14,Completely true,0,LESS,C7,TomLalaLokiCoco
+group_1_1,1,Q15,Completely true,4,ALL,Q65,MiloMiaLalaMax
+group_1_1,1,Q16,Completely false,2,FEW,C8,MiloMaxTomMia
+group_1_1,1,Q17,Completely false,2,ALL,Q67,MiaTomLokiCoco
+group_1_1,1,Q18,Completely false,0,MORE,C9,CocoLalaLunaNala
+group_1_1,1,Q19,Completely false,0,ALL,Q75,TomLalaLeoNala
+group_1_1,1,Q20,Completely false,1,MANY,C10,MaxNalaMiloTom
+group_1_1,1,Q21,Completely true,4,AND,Q81,LalaLokiLeoMax
+group_1_1,1,Q22,Completely true,3,MORE,C11,LokiLeoMaxLuna
+group_1_1,1,Q23,Neither completely true nor completely false,2,AND,Q59,LokiLeoMaxCoco
+group_1_1,1,Q24,Completely false,3,LESS,C12,LunaLeoMiaMilo
+group_1_1,1,Q25,Completely false,0,AND,Q74,LeoMaxCocoNala
+group_1_1,1,Q26,Completely true,4,MORE,C13,NalaMiloTomLoki
+group_1_1,1,Q27,Completely true,4,ALL,Q83,MaxCocoNalaLuna
+group_1_1,1,Q28,Completely true,4,MANY,C14,LalaLeoCocoLuna
+group_1_1,1,Q29,Completely false,2,ALL,Q78,CocoNalaLunaMilo
+group_1_1,1,Q30,Completely true,0,LESS,C15,TomLokiMaxNala
+group_1_1,1,Q31,Completely false,0,ALL,Q87,NalaLunaMiloMia
+group_1_1,1,Q32,Completely false,1,MORE,C16,MaxCocoNalaMia
+group_1_1,1,Q33,Completely true,4,AND,Q61,LunaMiloMiaTom
+group_1_1,1,Q34,Completely false,0,FEW,C17,CocoLunaMiaLala
+group_1_1,1,Q35,Neither completely true nor completely false,2,AND,Q82,MiloMiaTomLala
+group_1_1,1,Q36,Completely false,3,LESS,C18,LokiMaxNalaMilo
+group_1_1,1,Q37,Completely false,0,AND,Q79,MiaTomLalaLoki
+group_1_1,1,Q38,Completely false,2,MORE,C19,LeoMiaCocoMax
+group_1_1,1,Q39,Completely true,4,ALL,Q70,TomLalaLokiLeo
+group_1_1,1,Q40,Completely true,3,FEW,C20,LokiMiloMaxLeo
+group_1_1,1,Q41,Completely false,2,ALL,Q69,LalaMaxLunaTom
+group_1_1,1,Q42,Completely false,2,LESS,C21,LeoMaxCocoMilo
+group_1_1,1,Q43,Completely false,0,ALL,Q84,LokiCocoMiloLala
+group_1_1,1,Q44,Completely false,2,MORE,C22,MiloTomLokiMax
+group_1_1,1,Q45,Completely true,4,CONJ,Q85,LeoNalaMiaLoki
+group_1_1,1,Q46,Completely true,1,LESS,C23,MiaTomLalaMax
+group_1_1,1,Q47,Neither completely true nor completely false,2,CONJ,Q60,MaxLunaTomLeo
+group_1_1,1,Q48,Completely false,3,MANY,C24,LunaMiaLalaLeo
+group_1_1,1,Q49,Completely false,0,CONJ,Q62,CocoMiloLalaMax
+group_1_1,1,Q50,Completely false,0,MORE,C25,CocoNalaLunaTom
+group_1_1,1,Q51,Completely true,4,ALL,Q80,NalaMiaLokiCoco
+group_1_1,1,Q52,Completely true,4,MORE,C26,NalaLunaMiloLala
+group_1_1,1,Q53,Completely false,2,ALL,Q63,LunaTomLeoNala
+group_1_1,1,Q54,Completely false,0,MANY,C27,TomNalaLokiLala
+group_1_1,1,Q55,Completely false,0,ALL,Q77,MiloLalaMaxLuna
+group_1_1,1,Q56,Completely false,2,LESS,C28,LeoCocoLunaMia
+group_1_1,1,Q57,Completely true,4,AND,U1,MiaLokiCocoMilo
+group_1_1,1,Q58,Completely true,4,FEW,C29,LalaLokiLeoNala
+group_1_1,1,Q59,Neither completely true nor completely false,2,AND,Q66,TomLeoNalaMia
+group_1_1,1,Q60,Completely false,4,LESS,C30,LalaLunaLeoLoki
+group_1_2,1,Q1,Completely false,0,AND,Q68,LalaLokiMaxLuna
+group_1_2,1,Q2,Completely true,1,LESS,C1,MiaLalaLeoCoco
+group_1_2,1,Q3,Completely true,4,ALL,Q72,LokiLeoCocoMilo
+group_1_2,1,Q4,Completely true,3,MORE,C2,LunaMiloMiaLoki
+group_1_2,1,Q5,Completely false,2,ALL,Q73,LeoMaxNalaMia
+group_1_2,1,Q6,Completely false,1,FEW,C3,MiaCocoLalaTom
+group_1_2,1,Q7,Completely false,0,ALL,T1,MaxCocoLunaTom
+group_1_2,1,Q8,Completely false,4,LESS,C4,NalaLokiMiloLuna
+group_1_2,1,Q9,Completely true,4,AND,Q76,CocoNalaMiloLala
+group_1_2,1,Q10,Completely false,1,MORE,C5,MaxTomNalaCoco
+group_1_2,1,Q11,Completely false,2,AND,T2,NalaLunaMiaLoki
+group_1_2,1,Q12,Neither completely true nor completely false,2,MANY,C6,MiloMiaTomLeo
+group_1_2,1,Q13,Completely false,0,AND,Q71,LunaMiloTomLeo
+group_1_2,1,Q14,Completely true,0,LESS,C7,TomLalaLokiCoco
+group_1_2,1,Q15,Completely true,4,ALL,Q65,MiloMiaLalaMax
+group_1_2,1,Q16,Neither completely true nor completely false,2,FEW,C8,MiloMaxTomMia
+group_1_2,1,Q17,Completely false,2,ALL,Q67,MiaTomLokiCoco
+group_1_2,1,Q18,Completely false,0,MORE,C9,CocoLalaLunaNala
+group_1_2,1,Q19,Completely false,0,ALL,Q75,TomLalaLeoNala
+group_1_2,1,Q20,Completely false,1,MANY,C10,MaxNalaMiloTom
+group_1_2,1,Q21,Completely true,4,AND,Q81,LalaLokiLeoMax
+group_1_2,1,Q22,Completely true,3,MORE,C11,LokiLeoMaxLuna
+group_1_2,1,Q23,Completely false,2,AND,Q59,LokiLeoMaxCoco
+group_1_2,1,Q24,Completely false,3,LESS,C12,LunaLeoMiaMilo
+group_1_2,1,Q25,Completely false,0,AND,Q74,LeoMaxCocoNala
+group_1_2,1,Q26,Completely true,4,MORE,C13,NalaMiloTomLoki
+group_1_2,1,Q27,Completely true,4,ALL,Q83,MaxCocoNalaLuna
+group_1_2,1,Q28,Completely true,4,MANY,C14,LalaLeoCocoLuna
+group_1_2,1,Q29,Completely false,2,ALL,Q78,CocoNalaLunaMilo
+group_1_2,1,Q30,Completely true,0,LESS,C15,TomLokiMaxNala
+group_1_2,1,Q31,Completely false,0,ALL,Q87,NalaLunaMiloMia
+group_1_2,1,Q32,Completely false,1,MORE,C16,MaxCocoNalaMia
+group_1_2,1,Q33,Completely true,4,AND,Q61,LunaMiloMiaTom
+group_1_2,1,Q34,Completely false,0,FEW,C17,CocoLunaMiaLala
+group_1_2,1,Q35,Completely false,2,AND,Q82,MiloMiaTomLala
+group_1_2,1,Q36,Completely false,3,LESS,C18,LokiMaxNalaMilo
+group_1_2,1,Q37,Completely false,0,AND,Q79,MiaTomLalaLoki
+group_1_2,1,Q38,Completely false,2,MORE,C19,LeoMiaCocoMax
+group_1_2,1,Q39,Completely true,4,ALL,Q70,TomLalaLokiLeo
+group_1_2,1,Q40,Completely true,3,FEW,C20,LokiMiloMaxLeo
+group_1_2,1,Q41,Completely false,2,ALL,Q69,LalaMaxLunaTom
+group_1_2,1,Q42,Completely false,2,LESS,C21,LeoMaxCocoMilo
+group_1_2,1,Q43,Completely false,0,ALL,Q84,LokiCocoMiloLala
+group_1_2,1,Q44,Completely false,2,MORE,C22,MiloTomLokiMax
+group_1_2,1,Q45,Completely true,4,CONJ,Q85,LeoNalaMiaLoki
+group_1_2,1,Q46,Completely true,1,LESS,C23,MiaTomLalaMax
+group_1_2,1,Q47,Completely false,2,CONJ,Q60,MaxLunaTomLeo
+group_1_2,1,Q48,Neither completely true nor completely false,3,MANY,C24,LunaMiaLalaLeo
+group_1_2,1,Q49,Completely false,0,CONJ,Q62,CocoMiloLalaMax
+group_1_2,1,Q50,Completely false,0,MORE,C25,CocoNalaLunaTom
+group_1_2,1,Q51,Completely true,4,ALL,Q80,NalaMiaLokiCoco
+group_1_2,1,Q52,Completely true,4,MORE,C26,NalaLunaMiloLala
+group_1_2,1,Q53,Completely false,2,ALL,Q63,LunaTomLeoNala
+group_1_2,1,Q54,Completely false,0,MANY,C27,TomNalaLokiLala
+group_1_2,1,Q55,Completely false,0,ALL,Q77,MiloLalaMaxLuna
+group_1_2,1,Q56,Completely false,2,LESS,C28,LeoCocoLunaMia
+group_1_2,1,Q57,Completely true,4,AND,U1,MiaLokiCocoMilo
+group_1_2,1,Q58,Completely true,4,FEW,C29,LalaLokiLeoNala
+group_1_2,1,Q59,Completely false,2,AND,Q66,TomLeoNalaMia
+group_1_2,1,Q60,Completely false,4,LESS,C30,LalaLunaLeoLoki
+group_1_3,1,Q1,Completely false,0,AND,Q68,LalaLokiMaxLuna
+group_1_3,1,Q2,Completely true,1,LESS,C1,MiaLalaLeoCoco
+group_1_3,1,Q3,Completely true,4,ALL,Q72,LokiLeoCocoMilo
+group_1_3,1,Q4,Completely true,3,MORE,C2,LunaMiloMiaLoki
+group_1_3,1,Q5,Completely false,2,ALL,Q73,LeoMaxNalaMia
+group_1_3,1,Q6,Completely false,1,FEW,C3,MiaCocoLalaTom
+group_1_3,1,Q7,Completely false,0,ALL,T1,MaxCocoLunaTom
+group_1_3,1,Q8,Completely false,4,LESS,C4,NalaLokiMiloLuna
+group_1_3,1,Q9,Completely true,4,AND,Q76,CocoNalaMiloLala
+group_1_3,1,Q10,Completely false,1,MORE,C5,MaxTomNalaCoco
+group_1_3,1,Q11,Neither completely true nor completely false,2,AND,T2,NalaLunaMiaLoki
+group_1_3,1,Q12,Completely false,2,MANY,C6,MiloMiaTomLeo
+group_1_3,1,Q13,Completely false,0,AND,Q71,LunaMiloTomLeo
+group_1_3,1,Q14,Neither completely true nor completely false,0,LESS,C7,TomLalaLokiCoco
+group_1_3,1,Q15,Completely true,4,ALL,Q65,MiloMiaLalaMax
+group_1_3,1,Q16,Completely true,2,FEW,C8,MiloMaxTomMia
+group_1_3,1,Q17,Completely false,2,ALL,Q67,MiaTomLokiCoco
+group_1_3,1,Q18,Completely false,0,MORE,C9,CocoLalaLunaNala
+group_1_3,1,Q19,Completely false,0,ALL,Q75,TomLalaLeoNala
+group_1_3,1,Q20,Completely false,1,MANY,C10,MaxNalaMiloTom
+group_1_3,1,Q21,Completely true,4,AND,Q81,LalaLokiLeoMax
+group_1_3,1,Q22,Completely true,3,MORE,C11,LokiLeoMaxLuna
+group_1_3,1,Q23,Neither completely true nor completely false,2,AND,Q59,LokiLeoMaxCoco
+group_1_3,1,Q24,Completely false,3,LESS,C12,LunaLeoMiaMilo
+group_1_3,1,Q25,Completely false,0,AND,Q74,LeoMaxCocoNala
+group_1_3,1,Q26,Completely true,4,MORE,C13,NalaMiloTomLoki
+group_1_3,1,Q27,Completely true,4,ALL,Q83,MaxCocoNalaLuna
+group_1_3,1,Q28,Completely true,4,MANY,C14,LalaLeoCocoLuna
+group_1_3,1,Q29,Completely false,2,ALL,Q78,CocoNalaLunaMilo
+group_1_3,1,Q30,Neither completely true nor completely false,0,LESS,C15,TomLokiMaxNala
+group_1_3,1,Q31,Completely false,0,ALL,Q87,NalaLunaMiloMia
+group_1_3,1,Q32,Completely false,1,MORE,C16,MaxCocoNalaMia
+group_1_3,1,Q33,Completely true,4,AND,Q61,LunaMiloMiaTom
+group_1_3,1,Q34,Completely false,0,FEW,C17,CocoLunaMiaLala
+group_1_3,1,Q35,Neither completely true nor completely false,2,AND,Q82,MiloMiaTomLala
+group_1_3,1,Q36,Completely false,3,LESS,C18,LokiMaxNalaMilo
+group_1_3,1,Q37,Completely false,0,AND,Q79,MiaTomLalaLoki
+group_1_3,1,Q38,Completely false,2,MORE,C19,LeoMiaCocoMax
+group_1_3,1,Q39,Completely true,4,ALL,Q70,TomLalaLokiLeo
+group_1_3,1,Q40,Completely true,3,FEW,C20,LokiMiloMaxLeo
+group_1_3,1,Q41,Completely false,2,ALL,Q69,LalaMaxLunaTom
+group_1_3,1,Q42,Completely false,2,LESS,C21,LeoMaxCocoMilo
+group_1_3,1,Q43,Completely false,0,ALL,Q84,LokiCocoMiloLala
+group_1_3,1,Q44,Completely false,2,MORE,C22,MiloTomLokiMax
+group_1_3,1,Q45,Completely true,4,CONJ,Q85,LeoNalaMiaLoki
+group_1_3,1,Q46,Completely true,1,LESS,C23,MiaTomLalaMax
+group_1_3,1,Q47,Neither completely true nor completely false,2,CONJ,Q60,MaxLunaTomLeo
+group_1_3,1,Q48,Completely true,3,MANY,C24,LunaMiaLalaLeo
+group_1_3,1,Q49,Completely false,0,CONJ,Q62,CocoMiloLalaMax
+group_1_3,1,Q50,Completely false,0,MORE,C25,CocoNalaLunaTom
+group_1_3,1,Q51,Completely true,4,ALL,Q80,NalaMiaLokiCoco
+group_1_3,1,Q52,Completely true,4,MORE,C26,NalaLunaMiloLala
+group_1_3,1,Q53,Completely false,2,ALL,Q63,LunaTomLeoNala
+group_1_3,1,Q54,Completely false,0,MANY,C27,TomNalaLokiLala
+group_1_3,1,Q55,Completely false,0,ALL,Q77,MiloLalaMaxLuna
+group_1_3,1,Q56,Completely false,2,LESS,C28,LeoCocoLunaMia
+group_1_3,1,Q57,Completely true,4,AND,U1,MiaLokiCocoMilo
+group_1_3,1,Q58,Neither completely true nor completely false,4,FEW,C29,LalaLokiLeoNala
+group_1_3,1,Q59,Neither completely true nor completely false,2,AND,Q66,TomLeoNalaMia
+group_1_3,1,Q60,Completely false,4,LESS,C30,LalaLunaLeoLoki
+group_1_4,1,Q1,Completely false,0,AND,Q68,LalaLokiMaxLuna
+group_1_4,1,Q2,Completely true,1,LESS,C1,MiaLalaLeoCoco
+group_1_4,1,Q3,Completely true,4,ALL,Q72,LokiLeoCocoMilo
+group_1_4,1,Q4,Completely true,3,MORE,C2,LunaMiloMiaLoki
+group_1_4,1,Q5,Completely false,2,ALL,Q73,LeoMaxNalaMia
+group_1_4,1,Q6,Neither completely true nor completely false,1,FEW,C3,MiaCocoLalaTom
+group_1_4,1,Q7,Completely false,0,ALL,T1,MaxCocoLunaTom
+group_1_4,1,Q8,Completely false,4,LESS,C4,NalaLokiMiloLuna
+group_1_4,1,Q9,Completely true,4,AND,Q76,CocoNalaMiloLala
+group_1_4,1,Q10,Completely false,1,MORE,C5,MaxTomNalaCoco
+group_1_4,1,Q11,Neither completely true nor completely false,2,AND,T2,NalaLunaMiaLoki
+group_1_4,1,Q12,Neither completely true nor completely false,2,MANY,C6,MiloMiaTomLeo
+group_1_4,1,Q13,Completely false,0,AND,Q71,LunaMiloTomLeo
+group_1_4,1,Q14,Completely false,0,LESS,C7,TomLalaLokiCoco
+group_1_4,1,Q15,Completely true,4,ALL,Q65,MiloMiaLalaMax
+group_1_4,1,Q16,Neither completely true nor completely false,2,FEW,C8,MiloMaxTomMia
+group_1_4,1,Q17,Completely false,2,ALL,Q67,MiaTomLokiCoco
+group_1_4,1,Q18,Completely false,0,MORE,C9,CocoLalaLunaNala
+group_1_4,1,Q19,Completely false,0,ALL,Q75,TomLalaLeoNala
+group_1_4,1,Q20,Completely false,1,MANY,C10,MaxNalaMiloTom
+group_1_4,1,Q21,Completely true,4,AND,Q81,LalaLokiLeoMax
+group_1_4,1,Q22,Completely true,3,MORE,C11,LokiLeoMaxLuna
+group_1_4,1,Q23,Neither completely true nor completely false,2,AND,Q59,LokiLeoMaxCoco
+group_1_4,1,Q24,Completely false,3,LESS,C12,LunaLeoMiaMilo
+group_1_4,1,Q25,Completely false,0,AND,Q74,LeoMaxCocoNala
+group_1_4,1,Q26,Completely true,4,MORE,C13,NalaMiloTomLoki
+group_1_4,1,Q27,Completely true,4,ALL,Q83,MaxCocoNalaLuna
+group_1_4,1,Q28,Completely true,4,MANY,C14,LalaLeoCocoLuna
+group_1_4,1,Q29,Completely false,2,ALL,Q78,CocoNalaLunaMilo
+group_1_4,1,Q30,Completely false,0,LESS,C15,TomLokiMaxNala
+group_1_4,1,Q31,Completely false,0,ALL,Q87,NalaLunaMiloMia
+group_1_4,1,Q32,Completely false,1,MORE,C16,MaxCocoNalaMia
+group_1_4,1,Q33,Completely true,4,AND,Q61,LunaMiloMiaTom
+group_1_4,1,Q34,Completely false,0,FEW,C17,CocoLunaMiaLala
+group_1_4,1,Q35,Neither completely true nor completely false,2,AND,Q82,MiloMiaTomLala
+group_1_4,1,Q36,Completely false,3,LESS,C18,LokiMaxNalaMilo
+group_1_4,1,Q37,Completely false,0,AND,Q79,MiaTomLalaLoki
+group_1_4,1,Q38,Neither completely true nor completely false,2,MORE,C19,LeoMiaCocoMax
+group_1_4,1,Q39,Completely true,4,ALL,Q70,TomLalaLokiLeo
+group_1_4,1,Q40,Completely true,3,FEW,C20,LokiMiloMaxLeo
+group_1_4,1,Q41,Completely false,2,ALL,Q69,LalaMaxLunaTom
+group_1_4,1,Q42,Neither completely true nor completely false,2,LESS,C21,LeoMaxCocoMilo
+group_1_4,1,Q43,Completely false,0,ALL,Q84,LokiCocoMiloLala
+group_1_4,1,Q44,Neither completely true nor completely false,2,MORE,C22,MiloTomLokiMax
+group_1_4,1,Q45,Completely true,4,CONJ,Q85,LeoNalaMiaLoki
+group_1_4,1,Q46,Completely false,1,LESS,C23,MiaTomLalaMax
+group_1_4,1,Q47,Neither completely true nor completely false,2,CONJ,Q60,MaxLunaTomLeo
+group_1_4,1,Q48,Completely true,3,MANY,C24,LunaMiaLalaLeo
+group_1_4,1,Q49,Completely false,0,CONJ,Q62,CocoMiloLalaMax
+group_1_4,1,Q50,Completely false,0,MORE,C25,CocoNalaLunaTom
+group_1_4,1,Q51,Completely true,4,ALL,Q80,NalaMiaLokiCoco
+group_1_4,1,Q52,Completely true,4,MORE,C26,NalaLunaMiloLala
+group_1_4,1,Q53,Completely false,2,ALL,Q63,LunaTomLeoNala
+group_1_4,1,Q54,Completely false,0,MANY,C27,TomNalaLokiLala
+group_1_4,1,Q55,Completely false,0,ALL,Q77,MiloLalaMaxLuna
+group_1_4,1,Q56,Completely true,2,LESS,C28,LeoCocoLunaMia
+group_1_4,1,Q57,Completely true,4,AND,U1,MiaLokiCocoMilo
+group_1_4,1,Q58,Completely false,4,FEW,C29,LalaLokiLeoNala
+group_1_4,1,Q59,Neither completely true nor completely false,2,AND,Q66,TomLeoNalaMia
+group_1_4,1,Q60,Completely false,4,LESS,C30,LalaLunaLeoLoki
+group_1_5,1,Q1,Completely false,0,AND,Q68,LalaLokiMaxLuna
+group_1_5,1,Q2,Completely true,1,LESS,C1,MiaLalaLeoCoco
+group_1_5,1,Q3,Completely true,4,ALL,Q72,LokiLeoCocoMilo
+group_1_5,1,Q4,Completely true,3,MORE,C2,LunaMiloMiaLoki
+group_1_5,1,Q5,Completely false,2,ALL,Q73,LeoMaxNalaMia
+group_1_5,1,Q6,Completely false,1,FEW,C3,MiaCocoLalaTom
+group_1_5,1,Q7,Completely false,0,ALL,T1,MaxCocoLunaTom
+group_1_5,1,Q8,Completely false,4,LESS,C4,NalaLokiMiloLuna
+group_1_5,1,Q9,Completely true,4,AND,Q76,CocoNalaMiloLala
+group_1_5,1,Q10,Completely false,1,MORE,C5,MaxTomNalaCoco
+group_1_5,1,Q11,Completely false,2,AND,T2,NalaLunaMiaLoki
+group_1_5,1,Q12,Neither completely true nor completely false,2,MANY,C6,MiloMiaTomLeo
+group_1_5,1,Q13,Completely false,0,AND,Q71,LunaMiloTomLeo
+group_1_5,1,Q14,Completely true,0,LESS,C7,TomLalaLokiCoco
+group_1_5,1,Q15,Completely true,4,ALL,Q65,MiloMiaLalaMax
+group_1_5,1,Q16,Neither completely true nor completely false,2,FEW,C8,MiloMaxTomMia
+group_1_5,1,Q17,Completely false,2,ALL,Q67,MiaTomLokiCoco
+group_1_5,1,Q18,Completely false,0,MORE,C9,CocoLalaLunaNala
+group_1_5,1,Q19,Completely false,0,ALL,Q75,TomLalaLeoNala
+group_1_5,1,Q20,Completely false,1,MANY,C10,MaxNalaMiloTom
+group_1_5,1,Q21,Completely true,4,AND,Q81,LalaLokiLeoMax
+group_1_5,1,Q22,Completely true,3,MORE,C11,LokiLeoMaxLuna
+group_1_5,1,Q23,Completely false,2,AND,Q59,LokiLeoMaxCoco
+group_1_5,1,Q24,Completely false,3,LESS,C12,LunaLeoMiaMilo
+group_1_5,1,Q25,Completely false,0,AND,Q74,LeoMaxCocoNala
+group_1_5,1,Q26,Completely true,4,MORE,C13,NalaMiloTomLoki
+group_1_5,1,Q27,Completely true,4,ALL,Q83,MaxCocoNalaLuna
+group_1_5,1,Q28,Neither completely true nor completely false,4,MANY,C14,LalaLeoCocoLuna
+group_1_5,1,Q29,Completely false,2,ALL,Q78,CocoNalaLunaMilo
+group_1_5,1,Q30,Completely true,0,LESS,C15,TomLokiMaxNala
+group_1_5,1,Q31,Completely false,0,ALL,Q87,NalaLunaMiloMia
+group_1_5,1,Q32,Completely false,1,MORE,C16,MaxCocoNalaMia
+group_1_5,1,Q33,Completely true,4,AND,Q61,LunaMiloMiaTom
+group_1_5,1,Q34,Completely false,0,FEW,C17,CocoLunaMiaLala
+group_1_5,1,Q35,Completely false,2,AND,Q82,MiloMiaTomLala
+group_1_5,1,Q36,Completely false,3,LESS,C18,LokiMaxNalaMilo
+group_1_5,1,Q37,Completely false,0,AND,Q79,MiaTomLalaLoki
+group_1_5,1,Q38,Completely false,2,MORE,C19,LeoMiaCocoMax
+group_1_5,1,Q39,Completely true,4,ALL,Q70,TomLalaLokiLeo
+group_1_5,1,Q40,Completely true,3,FEW,C20,LokiMiloMaxLeo
+group_1_5,1,Q41,Completely false,2,ALL,Q69,LalaMaxLunaTom
+group_1_5,1,Q42,Completely false,2,LESS,C21,LeoMaxCocoMilo
+group_1_5,1,Q43,Completely false,0,ALL,Q84,LokiCocoMiloLala
+group_1_5,1,Q44,Completely false,2,MORE,C22,MiloTomLokiMax
+group_1_5,1,Q45,Completely true,4,CONJ,Q85,LeoNalaMiaLoki
+group_1_5,1,Q46,Completely true,1,LESS,C23,MiaTomLalaMax
+group_1_5,1,Q47,Completely false,2,CONJ,Q60,MaxLunaTomLeo
+group_1_5,1,Q48,Neither completely true nor completely false,3,MANY,C24,LunaMiaLalaLeo
+group_1_5,1,Q49,Completely false,0,CONJ,Q62,CocoMiloLalaMax
+group_1_5,1,Q50,Completely false,0,MORE,C25,CocoNalaLunaTom
+group_1_5,1,Q51,Completely true,4,ALL,Q80,NalaMiaLokiCoco
+group_1_5,1,Q52,Completely true,4,MORE,C26,NalaLunaMiloLala
+group_1_5,1,Q53,Completely false,2,ALL,Q63,LunaTomLeoNala
+group_1_5,1,Q54,Completely false,0,MANY,C27,TomNalaLokiLala
+group_1_5,1,Q55,Completely false,0,ALL,Q77,MiloLalaMaxLuna
+group_1_5,1,Q56,Completely false,2,LESS,C28,LeoCocoLunaMia
+group_1_5,1,Q57,Completely true,4,AND,U1,MiaLokiCocoMilo
+group_1_5,1,Q58,Neither completely true nor completely false,4,FEW,C29,LalaLokiLeoNala
+group_1_5,1,Q59,Completely false,2,AND,Q66,TomLeoNalaMia
+group_1_5,1,Q60,Completely false,4,LESS,C30,LalaLunaLeoLoki
+group_1_6,1,Q1,Completely false,0,AND,Q68,LalaLokiMaxLuna
+group_1_6,1,Q2,Completely true,1,LESS,C1,MiaLalaLeoCoco
+group_1_6,1,Q3,Completely true,4,ALL,Q72,LokiLeoCocoMilo
+group_1_6,1,Q4,Completely true,3,MORE,C2,LunaMiloMiaLoki
+group_1_6,1,Q5,Completely false,2,ALL,Q73,LeoMaxNalaMia
+group_1_6,1,Q6,Completely false,1,FEW,C3,MiaCocoLalaTom
+group_1_6,1,Q7,Completely false,0,ALL,T1,MaxCocoLunaTom
+group_1_6,1,Q8,Completely false,4,LESS,C4,NalaLokiMiloLuna
+group_1_6,1,Q9,Completely true,4,AND,Q76,CocoNalaMiloLala
+group_1_6,1,Q10,Completely false,1,MORE,C5,MaxTomNalaCoco
+group_1_6,1,Q11,Completely false,2,AND,T2,NalaLunaMiaLoki
+group_1_6,1,Q12,Neither completely true nor completely false,2,MANY,C6,MiloMiaTomLeo
+group_1_6,1,Q13,Completely false,0,AND,Q71,LunaMiloTomLeo
+group_1_6,1,Q14,Completely true,0,LESS,C7,TomLalaLokiCoco
+group_1_6,1,Q15,Completely true,4,ALL,Q65,MiloMiaLalaMax
+group_1_6,1,Q16,Neither completely true nor completely false,2,FEW,C8,MiloMaxTomMia
+group_1_6,1,Q17,Completely false,2,ALL,Q67,MiaTomLokiCoco
+group_1_6,1,Q18,Completely false,0,MORE,C9,CocoLalaLunaNala
+group_1_6,1,Q19,Completely false,0,ALL,Q75,TomLalaLeoNala
+group_1_6,1,Q20,Completely false,1,MANY,C10,MaxNalaMiloTom
+group_1_6,1,Q21,Completely true,4,AND,Q81,LalaLokiLeoMax
+group_1_6,1,Q22,Completely true,3,MORE,C11,LokiLeoMaxLuna
+group_1_6,1,Q23,Neither completely true nor completely false,2,AND,Q59,LokiLeoMaxCoco
+group_1_6,1,Q24,Completely false,3,LESS,C12,LunaLeoMiaMilo
+group_1_6,1,Q25,Completely false,0,AND,Q74,LeoMaxCocoNala
+group_1_6,1,Q26,Completely true,4,MORE,C13,NalaMiloTomLoki
+group_1_6,1,Q27,Completely true,4,ALL,Q83,MaxCocoNalaLuna
+group_1_6,1,Q28,Completely true,4,MANY,C14,LalaLeoCocoLuna
+group_1_6,1,Q29,Completely false,2,ALL,Q78,CocoNalaLunaMilo
+group_1_6,1,Q30,Neither completely true nor completely false,0,LESS,C15,TomLokiMaxNala
+group_1_6,1,Q31,Completely false,0,ALL,Q87,NalaLunaMiloMia
+group_1_6,1,Q32,Completely false,1,MORE,C16,MaxCocoNalaMia
+group_1_6,1,Q33,Completely true,4,AND,Q61,LunaMiloMiaTom
+group_1_6,1,Q34,Completely false,0,FEW,C17,CocoLunaMiaLala
+group_1_6,1,Q35,Neither completely true nor completely false,2,AND,Q82,MiloMiaTomLala
+group_1_6,1,Q36,Neither completely true nor completely false,3,LESS,C18,LokiMaxNalaMilo
+group_1_6,1,Q37,Completely false,0,AND,Q79,MiaTomLalaLoki
+group_1_6,1,Q38,Completely false,2,MORE,C19,LeoMiaCocoMax
+group_1_6,1,Q39,Completely true,4,ALL,Q70,TomLalaLokiLeo
+group_1_6,1,Q40,Completely true,3,FEW,C20,LokiMiloMaxLeo
+group_1_6,1,Q41,Completely false,2,ALL,Q69,LalaMaxLunaTom
+group_1_6,1,Q42,Completely false,2,LESS,C21,LeoMaxCocoMilo
+group_1_6,1,Q43,Completely false,0,ALL,Q84,LokiCocoMiloLala
+group_1_6,1,Q44,Completely false,2,MORE,C22,MiloTomLokiMax
+group_1_6,1,Q45,Completely true,4,CONJ,Q85,LeoNalaMiaLoki
+group_1_6,1,Q46,Completely true,1,LESS,C23,MiaTomLalaMax
+group_1_6,1,Q47,Neither completely true nor completely false,2,CONJ,Q60,MaxLunaTomLeo
+group_1_6,1,Q48,Completely true,3,MANY,C24,LunaMiaLalaLeo
+group_1_6,1,Q49,Completely false,0,CONJ,Q62,CocoMiloLalaMax
+group_1_6,1,Q50,Completely false,0,MORE,C25,CocoNalaLunaTom
+group_1_6,1,Q51,Completely true,4,ALL,Q80,NalaMiaLokiCoco
+group_1_6,1,Q52,Completely true,4,MORE,C26,NalaLunaMiloLala
+group_1_6,1,Q53,Completely false,2,ALL,Q63,LunaTomLeoNala
+group_1_6,1,Q54,Completely false,0,MANY,C27,TomNalaLokiLala
+group_1_6,1,Q55,Completely false,0,ALL,Q77,MiloLalaMaxLuna
+group_1_6,1,Q56,Neither completely true nor completely false,2,LESS,C28,LeoCocoLunaMia
+group_1_6,1,Q57,Completely true,4,AND,U1,MiaLokiCocoMilo
+group_1_6,1,Q58,Neither completely true nor completely false,4,FEW,C29,LalaLokiLeoNala
+group_1_6,1,Q59,Neither completely true nor completely false,2,AND,Q66,TomLeoNalaMia
+group_1_6,1,Q60,Completely false,4,LESS,C30,LalaLunaLeoLoki
+group_1_7,1,Q1,Completely false,0,AND,Q68,LalaLokiMaxLuna
+group_1_7,1,Q2,Neither completely true nor completely false,1,LESS,C1,MiaLalaLeoCoco
+group_1_7,1,Q3,Completely true,4,ALL,Q72,LokiLeoCocoMilo
+group_1_7,1,Q4,Completely true,3,MORE,C2,LunaMiloMiaLoki
+group_1_7,1,Q5,Completely false,2,ALL,Q73,LeoMaxNalaMia
+group_1_7,1,Q6,Neither completely true nor completely false,1,FEW,C3,MiaCocoLalaTom
+group_1_7,1,Q7,Completely false,0,ALL,T1,MaxCocoLunaTom
+group_1_7,1,Q8,Completely false,4,LESS,C4,NalaLokiMiloLuna
+group_1_7,1,Q9,Completely true,4,AND,Q76,CocoNalaMiloLala
+group_1_7,1,Q10,Completely false,1,MORE,C5,MaxTomNalaCoco
+group_1_7,1,Q11,Neither completely true nor completely false,2,AND,T2,NalaLunaMiaLoki
+group_1_7,1,Q12,Completely true,2,MANY,C6,MiloMiaTomLeo
+group_1_7,1,Q13,Completely false,0,AND,Q71,LunaMiloTomLeo
+group_1_7,1,Q14,Completely false,0,LESS,C7,TomLalaLokiCoco
+group_1_7,1,Q15,Completely true,4,ALL,Q65,MiloMiaLalaMax
+group_1_7,1,Q16,Neither completely true nor completely false,2,FEW,C8,MiloMaxTomMia
+group_1_7,1,Q17,Completely false,2,ALL,Q67,MiaTomLokiCoco
+group_1_7,1,Q18,Completely false,0,MORE,C9,CocoLalaLunaNala
+group_1_7,1,Q19,Completely false,0,ALL,Q75,TomLalaLeoNala
+group_1_7,1,Q20,Neither completely true nor completely false,1,MANY,C10,MaxNalaMiloTom
+group_1_7,1,Q21,Completely true,4,AND,Q81,LalaLokiLeoMax
+group_1_7,1,Q22,Completely true,3,MORE,C11,LokiLeoMaxLuna
+group_1_7,1,Q23,Neither completely true nor completely false,2,AND,Q59,LokiLeoMaxCoco
+group_1_7,1,Q24,Completely false,3,LESS,C12,LunaLeoMiaMilo
+group_1_7,1,Q25,Completely false,0,AND,Q74,LeoMaxCocoNala
+group_1_7,1,Q26,Completely true,4,MORE,C13,NalaMiloTomLoki
+group_1_7,1,Q27,Completely true,4,ALL,Q83,MaxCocoNalaLuna
+group_1_7,1,Q28,Completely true,4,MANY,C14,LalaLeoCocoLuna
+group_1_7,1,Q29,Neither completely true nor completely false,2,ALL,Q78,CocoNalaLunaMilo
+group_1_7,1,Q30,Completely false,0,LESS,C15,TomLokiMaxNala
+group_1_7,1,Q31,Completely false,0,ALL,Q87,NalaLunaMiloMia
+group_1_7,1,Q32,Completely false,1,MORE,C16,MaxCocoNalaMia
+group_1_7,1,Q33,Completely true,4,AND,Q61,LunaMiloMiaTom
+group_1_7,1,Q34,Completely false,0,FEW,C17,CocoLunaMiaLala
+group_1_7,1,Q35,Neither completely true nor completely false,2,AND,Q82,MiloMiaTomLala
+group_1_7,1,Q36,Completely false,3,LESS,C18,LokiMaxNalaMilo
+group_1_7,1,Q37,Completely false,0,AND,Q79,MiaTomLalaLoki
+group_1_7,1,Q38,Completely false,2,MORE,C19,LeoMiaCocoMax
+group_1_7,1,Q39,Completely true,4,ALL,Q70,TomLalaLokiLeo
+group_1_7,1,Q40,Completely true,3,FEW,C20,LokiMiloMaxLeo
+group_1_7,1,Q41,Completely false,2,ALL,Q69,LalaMaxLunaTom
+group_1_7,1,Q42,Completely false,2,LESS,C21,LeoMaxCocoMilo
+group_1_7,1,Q43,Completely false,0,ALL,Q84,LokiCocoMiloLala
+group_1_7,1,Q44,Completely false,2,MORE,C22,MiloTomLokiMax
+group_1_7,1,Q45,Completely true,4,CONJ,Q85,LeoNalaMiaLoki
+group_1_7,1,Q46,Completely true,1,LESS,C23,MiaTomLalaMax
+group_1_7,1,Q47,Neither completely true nor completely false,2,CONJ,Q60,MaxLunaTomLeo
+group_1_7,1,Q48,Completely true,3,MANY,C24,LunaMiaLalaLeo
+group_1_7,1,Q49,Completely false,0,CONJ,Q62,CocoMiloLalaMax
+group_1_7,1,Q50,Completely false,0,MORE,C25,CocoNalaLunaTom
+group_1_7,1,Q51,Completely true,4,ALL,Q80,NalaMiaLokiCoco
+group_1_7,1,Q52,Completely true,4,MORE,C26,NalaLunaMiloLala
+group_1_7,1,Q53,Completely false,2,ALL,Q63,LunaTomLeoNala
+group_1_7,1,Q54,Completely false,0,MANY,C27,TomNalaLokiLala
+group_1_7,1,Q55,Completely false,0,ALL,Q77,MiloLalaMaxLuna
+group_1_7,1,Q56,Neither completely true nor completely false,2,LESS,C28,LeoCocoLunaMia
+group_1_7,1,Q57,Completely true,4,AND,U1,MiaLokiCocoMilo
+group_1_7,1,Q58,Neither completely true nor completely false,4,FEW,C29,LalaLokiLeoNala
+group_1_7,1,Q59,Neither completely true nor completely false,2,AND,Q66,TomLeoNalaMia
+group_1_7,1,Q60,Completely false,4,LESS,C30,LalaLunaLeoLoki
+group_2_1,2,Q1,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_2_1,2,Q2,Neither completely true nor completely false,2,AND,C1,LalaLokiMaxLuna
+group_2_1,2,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_2_1,2,Q4,Completely false,0,AND,C2,LokiLeoCocoMilo
+group_2_1,2,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_2_1,2,Q6,Completely true,4,ALL,C3,LeoMaxNalaMia
+group_2_1,2,Q7,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_2_1,2,Q8,Completely false,2,ALL,C4,MaxCocoLunaTom
+group_2_1,2,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_2_1,2,Q10,Completely false,0,ALL,C5,CocoNalaMiloLala
+group_2_1,2,Q11,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_2_1,2,Q12,Completely true,4,AND,C6,NalaLunaMiaLoki
+group_2_1,2,Q13,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_2_1,2,Q14,Neither completely true nor completely false,2,AND,C7,LunaMiloTomLeo
+group_2_1,2,Q15,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_2_1,2,Q16,Completely false,0,AND,C8,MiloMiaLalaMax
+group_2_1,2,Q17,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_2_1,2,Q18,Completely true,4,ALL,C9,MiaTomLokiCoco
+group_2_1,2,Q19,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_2_1,2,Q20,Completely false,2,ALL,C10,TomLalaLeoNala
+group_2_1,2,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_2_1,2,Q22,Completely false,0,ALL,C11,LalaLokiLeoMax
+group_2_1,2,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_2_1,2,Q24,Completely true,4,AND,C12,LokiLeoMaxCoco
+group_2_1,2,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_2_1,2,Q26,Neither completely true nor completely false,2,AND,C13,LeoMaxCocoNala
+group_2_1,2,Q27,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_2_1,2,Q28,Completely false,0,AND,C14,MaxCocoNalaLuna
+group_2_1,2,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_2_1,2,Q30,Completely true,4,ALL,C15,CocoNalaLunaMilo
+group_2_1,2,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_2_1,2,Q32,Completely false,2,ALL,C16,NalaLunaMiloMia
+group_2_1,2,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_2_1,2,Q34,Completely false,0,ALL,C17,LunaMiloMiaTom
+group_2_1,2,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_2_1,2,Q36,Completely true,4,AND,C18,MiloMiaTomLala
+group_2_1,2,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_2_1,2,Q38,Completely false,2,AND,C19,MiaTomLalaLoki
+group_2_1,2,Q39,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_2_1,2,Q40,Completely false,0,AND,C20,TomLalaLokiLeo
+group_2_1,2,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_2_1,2,Q42,Completely true,4,ALL,C21,LalaMaxLunaTom
+group_2_1,2,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_2_1,2,Q44,Completely false,2,ALL,C22,LokiCocoMiloLala
+group_2_1,2,Q45,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_2_1,2,Q46,Completely false,0,ALL,C23,LeoNalaMiaLoki
+group_2_1,2,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_2_1,2,Q48,Completely true,4,AND,C24,MaxLunaTomLeo
+group_2_1,2,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_2_1,2,Q50,Neither completely true nor completely false,2,AND,C25,CocoMiloLalaMax
+group_2_1,2,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_2_1,2,Q52,Completely false,0,AND,C26,NalaMiaLokiCoco
+group_2_1,2,Q53,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_2_1,2,Q54,Completely true,4,ALL,C27,LunaTomLeoNala
+group_2_1,2,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_2_1,2,Q56,Completely false,2,ALL,C28,MiloLalaMaxLuna
+group_2_1,2,Q57,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_2_1,2,Q58,Completely false,0,ALL,C29,MiaLokiCocoMilo
+group_2_1,2,Q59,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_2_1,2,Q60,Completely true,4,AND,C30,TomLeoNalaMia
+group_2_2,2,Q1,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_2_2,2,Q2,Neither completely true nor completely false,2,AND,C1,LalaLokiMaxLuna
+group_2_2,2,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_2_2,2,Q4,Completely false,0,AND,C2,LokiLeoCocoMilo
+group_2_2,2,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_2_2,2,Q6,Completely true,4,ALL,C3,LeoMaxNalaMia
+group_2_2,2,Q7,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_2_2,2,Q8,Completely false,2,ALL,C4,MaxCocoLunaTom
+group_2_2,2,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_2_2,2,Q10,Completely false,0,ALL,C5,CocoNalaMiloLala
+group_2_2,2,Q11,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_2_2,2,Q12,Completely true,4,AND,C6,NalaLunaMiaLoki
+group_2_2,2,Q13,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_2_2,2,Q14,Neither completely true nor completely false,2,AND,C7,LunaMiloTomLeo
+group_2_2,2,Q15,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_2_2,2,Q16,Completely false,0,AND,C8,MiloMiaLalaMax
+group_2_2,2,Q17,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_2_2,2,Q18,Completely true,4,ALL,C9,MiaTomLokiCoco
+group_2_2,2,Q19,Completely true,2,FEW,Q75,MiloMaxTomMia
+group_2_2,2,Q20,Completely false,2,ALL,C10,TomLalaLeoNala
+group_2_2,2,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_2_2,2,Q22,Completely false,0,ALL,C11,LalaLokiLeoMax
+group_2_2,2,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_2_2,2,Q24,Completely true,4,AND,C12,LokiLeoMaxCoco
+group_2_2,2,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_2_2,2,Q26,Neither completely true nor completely false,2,AND,C13,LeoMaxCocoNala
+group_2_2,2,Q27,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_2_2,2,Q28,Completely false,0,AND,C14,MaxCocoNalaLuna
+group_2_2,2,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_2_2,2,Q30,Completely true,4,ALL,C15,CocoNalaLunaMilo
+group_2_2,2,Q31,Neither completely true nor completely false,0,LESS,Q87,TomLokiMaxNala
+group_2_2,2,Q32,Completely false,2,ALL,C16,NalaLunaMiloMia
+group_2_2,2,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_2_2,2,Q34,Completely false,0,ALL,C17,LunaMiloMiaTom
+group_2_2,2,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_2_2,2,Q36,Completely true,4,AND,C18,MiloMiaTomLala
+group_2_2,2,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_2_2,2,Q38,Neither completely true nor completely false,2,AND,C19,MiaTomLalaLoki
+group_2_2,2,Q39,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_2_2,2,Q40,Completely false,0,AND,C20,TomLalaLokiLeo
+group_2_2,2,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_2_2,2,Q42,Completely true,4,ALL,C21,LalaMaxLunaTom
+group_2_2,2,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_2_2,2,Q44,Completely false,2,ALL,C22,LokiCocoMiloLala
+group_2_2,2,Q45,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_2_2,2,Q46,Completely false,0,ALL,C23,LeoNalaMiaLoki
+group_2_2,2,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_2_2,2,Q48,Completely true,4,AND,C24,MaxLunaTomLeo
+group_2_2,2,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_2_2,2,Q50,Neither completely true nor completely false,2,AND,C25,CocoMiloLalaMax
+group_2_2,2,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_2_2,2,Q52,Completely false,0,AND,C26,NalaMiaLokiCoco
+group_2_2,2,Q53,Neither completely true nor completely false,4,FEW,U1,LalaLokiLeoNala
+group_2_2,2,Q54,Completely true,4,ALL,C27,LunaTomLeoNala
+group_2_2,2,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_2_2,2,Q56,Completely false,2,ALL,C28,MiloLalaMaxLuna
+group_2_2,2,Q57,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_2_2,2,Q58,Completely false,0,ALL,C29,MiaLokiCocoMilo
+group_2_2,2,Q59,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_2_2,2,Q60,Completely true,4,AND,C30,TomLeoNalaMia
+group_2_3,2,Q1,Neither completely true nor completely false,1,FEW,Q76,MiaCocoLalaTom
+group_2_3,2,Q2,Neither completely true nor completely false,2,AND,C1,LalaLokiMaxLuna
+group_2_3,2,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_2_3,2,Q4,Completely false,0,AND,C2,LokiLeoCocoMilo
+group_2_3,2,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_2_3,2,Q6,Completely true,4,ALL,C3,LeoMaxNalaMia
+group_2_3,2,Q7,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_2_3,2,Q8,Completely false,2,ALL,C4,MaxCocoLunaTom
+group_2_3,2,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_2_3,2,Q10,Completely false,0,ALL,C5,CocoNalaMiloLala
+group_2_3,2,Q11,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_2_3,2,Q12,Completely true,4,AND,C6,NalaLunaMiaLoki
+group_2_3,2,Q13,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_2_3,2,Q14,Neither completely true nor completely false,2,AND,C7,LunaMiloTomLeo
+group_2_3,2,Q15,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_2_3,2,Q16,Completely false,0,AND,C8,MiloMiaLalaMax
+group_2_3,2,Q17,Completely false,0,LESS,Q67,TomLalaLokiCoco
+group_2_3,2,Q18,Completely true,4,ALL,C9,MiaTomLokiCoco
+group_2_3,2,Q19,Completely true,2,FEW,Q75,MiloMaxTomMia
+group_2_3,2,Q20,Completely false,2,ALL,C10,TomLalaLeoNala
+group_2_3,2,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_2_3,2,Q22,Completely false,0,ALL,C11,LalaLokiLeoMax
+group_2_3,2,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_2_3,2,Q24,Completely true,4,AND,C12,LokiLeoMaxCoco
+group_2_3,2,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_2_3,2,Q26,Neither completely true nor completely false,2,AND,C13,LeoMaxCocoNala
+group_2_3,2,Q27,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_2_3,2,Q28,Completely false,0,AND,C14,MaxCocoNalaLuna
+group_2_3,2,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_2_3,2,Q30,Completely true,4,ALL,C15,CocoNalaLunaMilo
+group_2_3,2,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_2_3,2,Q32,Completely false,2,ALL,C16,NalaLunaMiloMia
+group_2_3,2,Q33,Neither completely true nor completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_2_3,2,Q34,Completely false,0,ALL,C17,LunaMiloMiaTom
+group_2_3,2,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_2_3,2,Q36,Completely true,4,AND,C18,MiloMiaTomLala
+group_2_3,2,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_2_3,2,Q38,Neither completely true nor completely false,2,AND,C19,MiaTomLalaLoki
+group_2_3,2,Q39,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_2_3,2,Q40,Completely false,0,AND,C20,TomLalaLokiLeo
+group_2_3,2,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_2_3,2,Q42,Completely true,4,ALL,C21,LalaMaxLunaTom
+group_2_3,2,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_2_3,2,Q44,Completely false,2,ALL,C22,LokiCocoMiloLala
+group_2_3,2,Q45,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_2_3,2,Q46,Completely false,0,ALL,C23,LeoNalaMiaLoki
+group_2_3,2,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_2_3,2,Q48,Completely true,4,AND,C24,MaxLunaTomLeo
+group_2_3,2,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_2_3,2,Q50,Neither completely true nor completely false,2,AND,C25,CocoMiloLalaMax
+group_2_3,2,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_2_3,2,Q52,Completely false,0,AND,C26,NalaMiaLokiCoco
+group_2_3,2,Q53,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_2_3,2,Q54,Completely true,4,ALL,C27,LunaTomLeoNala
+group_2_3,2,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_2_3,2,Q56,Completely false,2,ALL,C28,MiloLalaMaxLuna
+group_2_3,2,Q57,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_2_3,2,Q58,Completely false,0,ALL,C29,MiaLokiCocoMilo
+group_2_3,2,Q59,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_2_3,2,Q60,Completely true,4,AND,C30,TomLeoNalaMia
+group_2_4,2,Q1,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_2_4,2,Q2,Completely false,2,AND,C1,LalaLokiMaxLuna
+group_2_4,2,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_2_4,2,Q4,Completely false,0,AND,C2,LokiLeoCocoMilo
+group_2_4,2,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_2_4,2,Q6,Completely true,4,ALL,C3,LeoMaxNalaMia
+group_2_4,2,Q7,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_2_4,2,Q8,Completely false,2,ALL,C4,MaxCocoLunaTom
+group_2_4,2,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_2_4,2,Q10,Completely false,0,ALL,C5,CocoNalaMiloLala
+group_2_4,2,Q11,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_2_4,2,Q12,Completely true,4,AND,C6,NalaLunaMiaLoki
+group_2_4,2,Q13,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_2_4,2,Q14,Neither completely true nor completely false,2,AND,C7,LunaMiloTomLeo
+group_2_4,2,Q15,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_2_4,2,Q16,Completely false,0,AND,C8,MiloMiaLalaMax
+group_2_4,2,Q17,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_2_4,2,Q18,Completely true,4,ALL,C9,MiaTomLokiCoco
+group_2_4,2,Q19,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_2_4,2,Q20,Completely false,2,ALL,C10,TomLalaLeoNala
+group_2_4,2,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_2_4,2,Q22,Completely false,0,ALL,C11,LalaLokiLeoMax
+group_2_4,2,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_2_4,2,Q24,Completely true,4,AND,C12,LokiLeoMaxCoco
+group_2_4,2,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_2_4,2,Q26,Neither completely true nor completely false,2,AND,C13,LeoMaxCocoNala
+group_2_4,2,Q27,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_2_4,2,Q28,Completely false,0,AND,C14,MaxCocoNalaLuna
+group_2_4,2,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_2_4,2,Q30,Completely true,4,ALL,C15,CocoNalaLunaMilo
+group_2_4,2,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_2_4,2,Q32,Completely false,2,ALL,C16,NalaLunaMiloMia
+group_2_4,2,Q33,Neither completely true nor completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_2_4,2,Q34,Completely false,0,ALL,C17,LunaMiloMiaTom
+group_2_4,2,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_2_4,2,Q36,Completely true,4,AND,C18,MiloMiaTomLala
+group_2_4,2,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_2_4,2,Q38,Neither completely true nor completely false,2,AND,C19,MiaTomLalaLoki
+group_2_4,2,Q39,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_2_4,2,Q40,Completely false,0,AND,C20,TomLalaLokiLeo
+group_2_4,2,Q41,Neither completely true nor completely false,3,FEW,Q69,LokiMiloMaxLeo
+group_2_4,2,Q42,Completely true,4,ALL,C21,LalaMaxLunaTom
+group_2_4,2,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_2_4,2,Q44,Completely false,2,ALL,C22,LokiCocoMiloLala
+group_2_4,2,Q45,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_2_4,2,Q46,Completely false,0,ALL,C23,LeoNalaMiaLoki
+group_2_4,2,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_2_4,2,Q48,Completely true,4,AND,C24,MaxLunaTomLeo
+group_2_4,2,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_2_4,2,Q50,Neither completely true nor completely false,2,AND,C25,CocoMiloLalaMax
+group_2_4,2,Q51,Neither completely true nor completely false,2,LESS,Q80,LeoCocoLunaMia
+group_2_4,2,Q52,Completely false,0,AND,C26,NalaMiaLokiCoco
+group_2_4,2,Q53,Neither completely true nor completely false,4,FEW,U1,LalaLokiLeoNala
+group_2_4,2,Q54,Completely true,4,ALL,C27,LunaTomLeoNala
+group_2_4,2,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_2_4,2,Q56,Completely false,2,ALL,C28,MiloLalaMaxLuna
+group_2_4,2,Q57,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_2_4,2,Q58,Completely false,0,ALL,C29,MiaLokiCocoMilo
+group_2_4,2,Q59,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_2_4,2,Q60,Completely true,4,AND,C30,TomLeoNalaMia
+group_2_5,2,Q1,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_2_5,2,Q2,Neither completely true nor completely false,2,AND,C1,LalaLokiMaxLuna
+group_2_5,2,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_2_5,2,Q4,Completely false,0,AND,C2,LokiLeoCocoMilo
+group_2_5,2,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_2_5,2,Q6,Completely true,4,ALL,C3,LeoMaxNalaMia
+group_2_5,2,Q7,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_2_5,2,Q8,Completely false,2,ALL,C4,MaxCocoLunaTom
+group_2_5,2,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_2_5,2,Q10,Completely false,0,ALL,C5,CocoNalaMiloLala
+group_2_5,2,Q11,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_2_5,2,Q12,Completely true,4,AND,C6,NalaLunaMiaLoki
+group_2_5,2,Q13,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_2_5,2,Q14,Neither completely true nor completely false,2,AND,C7,LunaMiloTomLeo
+group_2_5,2,Q15,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_2_5,2,Q16,Completely false,0,AND,C8,MiloMiaLalaMax
+group_2_5,2,Q17,Completely false,0,LESS,Q67,TomLalaLokiCoco
+group_2_5,2,Q18,Completely true,4,ALL,C9,MiaTomLokiCoco
+group_2_5,2,Q19,Completely true,2,FEW,Q75,MiloMaxTomMia
+group_2_5,2,Q20,Completely false,2,ALL,C10,TomLalaLeoNala
+group_2_5,2,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_2_5,2,Q22,Completely false,0,ALL,C11,LalaLokiLeoMax
+group_2_5,2,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_2_5,2,Q24,Completely true,4,AND,C12,LokiLeoMaxCoco
+group_2_5,2,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_2_5,2,Q26,Completely false,2,AND,C13,LeoMaxCocoNala
+group_2_5,2,Q27,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_2_5,2,Q28,Completely false,0,AND,C14,MaxCocoNalaLuna
+group_2_5,2,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_2_5,2,Q30,Completely true,4,ALL,C15,CocoNalaLunaMilo
+group_2_5,2,Q31,Completely false,0,LESS,Q87,TomLokiMaxNala
+group_2_5,2,Q32,Completely false,2,ALL,C16,NalaLunaMiloMia
+group_2_5,2,Q33,Neither completely true nor completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_2_5,2,Q34,Completely false,0,ALL,C17,LunaMiloMiaTom
+group_2_5,2,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_2_5,2,Q36,Completely true,4,AND,C18,MiloMiaTomLala
+group_2_5,2,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_2_5,2,Q38,Completely false,2,AND,C19,MiaTomLalaLoki
+group_2_5,2,Q39,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_2_5,2,Q40,Completely false,0,AND,C20,TomLalaLokiLeo
+group_2_5,2,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_2_5,2,Q42,Completely true,4,ALL,C21,LalaMaxLunaTom
+group_2_5,2,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_2_5,2,Q44,Completely false,2,ALL,C22,LokiCocoMiloLala
+group_2_5,2,Q45,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_2_5,2,Q46,Completely false,0,ALL,C23,LeoNalaMiaLoki
+group_2_5,2,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_2_5,2,Q48,Completely true,4,AND,C24,MaxLunaTomLeo
+group_2_5,2,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_2_5,2,Q50,Completely false,2,AND,C25,CocoMiloLalaMax
+group_2_5,2,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_2_5,2,Q52,Completely false,0,AND,C26,NalaMiaLokiCoco
+group_2_5,2,Q53,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_2_5,2,Q54,Completely true,4,ALL,C27,LunaTomLeoNala
+group_2_5,2,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_2_5,2,Q56,Completely false,2,ALL,C28,MiloLalaMaxLuna
+group_2_5,2,Q57,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_2_5,2,Q58,Completely false,0,ALL,C29,MiaLokiCocoMilo
+group_2_5,2,Q59,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_2_5,2,Q60,Completely true,4,AND,C30,TomLeoNalaMia
+group_2_6,2,Q1,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_2_6,2,Q2,Neither completely true nor completely false,2,AND,C1,LalaLokiMaxLuna
+group_2_6,2,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_2_6,2,Q4,Completely false,0,AND,C2,LokiLeoCocoMilo
+group_2_6,2,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_2_6,2,Q6,Completely true,4,ALL,C3,LeoMaxNalaMia
+group_2_6,2,Q7,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_2_6,2,Q8,Completely false,2,ALL,C4,MaxCocoLunaTom
+group_2_6,2,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_2_6,2,Q10,Completely false,0,ALL,C5,CocoNalaMiloLala
+group_2_6,2,Q11,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_2_6,2,Q12,Completely true,4,AND,C6,NalaLunaMiaLoki
+group_2_6,2,Q13,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_2_6,2,Q14,Completely false,2,AND,C7,LunaMiloTomLeo
+group_2_6,2,Q15,Completely false,2,MANY,Q65,MiloMiaTomLeo
+group_2_6,2,Q16,Completely false,0,AND,C8,MiloMiaLalaMax
+group_2_6,2,Q17,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_2_6,2,Q18,Completely true,4,ALL,C9,MiaTomLokiCoco
+group_2_6,2,Q19,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_2_6,2,Q20,Completely false,2,ALL,C10,TomLalaLeoNala
+group_2_6,2,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_2_6,2,Q22,Completely false,0,ALL,C11,LalaLokiLeoMax
+group_2_6,2,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_2_6,2,Q24,Completely true,4,AND,C12,LokiLeoMaxCoco
+group_2_6,2,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_2_6,2,Q26,Completely false,2,AND,C13,LeoMaxCocoNala
+group_2_6,2,Q27,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_2_6,2,Q28,Completely false,0,AND,C14,MaxCocoNalaLuna
+group_2_6,2,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_2_6,2,Q30,Completely true,4,ALL,C15,CocoNalaLunaMilo
+group_2_6,2,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_2_6,2,Q32,Completely false,2,ALL,C16,NalaLunaMiloMia
+group_2_6,2,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_2_6,2,Q34,Completely false,0,ALL,C17,LunaMiloMiaTom
+group_2_6,2,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_2_6,2,Q36,Completely true,4,AND,C18,MiloMiaTomLala
+group_2_6,2,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_2_6,2,Q38,Completely false,2,AND,C19,MiaTomLalaLoki
+group_2_6,2,Q39,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_2_6,2,Q40,Completely false,0,AND,C20,TomLalaLokiLeo
+group_2_6,2,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_2_6,2,Q42,Completely true,4,ALL,C21,LalaMaxLunaTom
+group_2_6,2,Q43,Neither completely true nor completely false,3,MANY,Q84,LunaMiaLalaLeo
+group_2_6,2,Q44,Completely false,2,ALL,C22,LokiCocoMiloLala
+group_2_6,2,Q45,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_2_6,2,Q46,Completely false,0,ALL,C23,LeoNalaMiaLoki
+group_2_6,2,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_2_6,2,Q48,Completely true,4,AND,C24,MaxLunaTomLeo
+group_2_6,2,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_2_6,2,Q50,Completely false,2,AND,C25,CocoMiloLalaMax
+group_2_6,2,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_2_6,2,Q52,Completely false,0,AND,C26,NalaMiaLokiCoco
+group_2_6,2,Q53,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_2_6,2,Q54,Completely true,4,ALL,C27,LunaTomLeoNala
+group_2_6,2,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_2_6,2,Q56,Completely false,2,ALL,C28,MiloLalaMaxLuna
+group_2_6,2,Q57,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_2_6,2,Q58,Completely false,0,ALL,C29,MiaLokiCocoMilo
+group_2_6,2,Q59,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_2_6,2,Q60,Completely true,4,AND,C30,TomLeoNalaMia
+group_2_7,2,Q1,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_2_7,2,Q2,Completely false,2,AND,C1,LalaLokiMaxLuna
+group_2_7,2,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_2_7,2,Q4,Completely false,0,AND,C2,LokiLeoCocoMilo
+group_2_7,2,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_2_7,2,Q6,Completely true,4,ALL,C3,LeoMaxNalaMia
+group_2_7,2,Q7,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_2_7,2,Q8,Completely false,2,ALL,C4,MaxCocoLunaTom
+group_2_7,2,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_2_7,2,Q10,Completely false,0,ALL,C5,CocoNalaMiloLala
+group_2_7,2,Q11,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_2_7,2,Q12,Completely true,4,AND,C6,NalaLunaMiaLoki
+group_2_7,2,Q13,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_2_7,2,Q14,Completely false,2,AND,C7,LunaMiloTomLeo
+group_2_7,2,Q15,Completely false,2,MANY,Q65,MiloMiaTomLeo
+group_2_7,2,Q16,Completely false,0,AND,C8,MiloMiaLalaMax
+group_2_7,2,Q17,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_2_7,2,Q18,Completely true,4,ALL,C9,MiaTomLokiCoco
+group_2_7,2,Q19,Completely true,2,FEW,Q75,MiloMaxTomMia
+group_2_7,2,Q20,Completely false,2,ALL,C10,TomLalaLeoNala
+group_2_7,2,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_2_7,2,Q22,Completely false,0,ALL,C11,LalaLokiLeoMax
+group_2_7,2,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_2_7,2,Q24,Completely true,4,AND,C12,LokiLeoMaxCoco
+group_2_7,2,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_2_7,2,Q26,Completely false,2,AND,C13,LeoMaxCocoNala
+group_2_7,2,Q27,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_2_7,2,Q28,Completely false,0,AND,C14,MaxCocoNalaLuna
+group_2_7,2,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_2_7,2,Q30,Completely true,4,ALL,C15,CocoNalaLunaMilo
+group_2_7,2,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_2_7,2,Q32,Completely false,2,ALL,C16,NalaLunaMiloMia
+group_2_7,2,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_2_7,2,Q34,Completely false,0,ALL,C17,LunaMiloMiaTom
+group_2_7,2,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_2_7,2,Q36,Completely true,4,AND,C18,MiloMiaTomLala
+group_2_7,2,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_2_7,2,Q38,Completely false,2,AND,C19,MiaTomLalaLoki
+group_2_7,2,Q39,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_2_7,2,Q40,Completely false,0,AND,C20,TomLalaLokiLeo
+group_2_7,2,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_2_7,2,Q42,Completely true,4,ALL,C21,LalaMaxLunaTom
+group_2_7,2,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_2_7,2,Q44,Completely false,2,ALL,C22,LokiCocoMiloLala
+group_2_7,2,Q45,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_2_7,2,Q46,Completely false,0,ALL,C23,LeoNalaMiaLoki
+group_2_7,2,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_2_7,2,Q48,Completely true,4,AND,C24,MaxLunaTomLeo
+group_2_7,2,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_2_7,2,Q50,Completely false,2,AND,C25,CocoMiloLalaMax
+group_2_7,2,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_2_7,2,Q52,Completely false,0,AND,C26,NalaMiaLokiCoco
+group_2_7,2,Q53,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_2_7,2,Q54,Completely true,4,ALL,C27,LunaTomLeoNala
+group_2_7,2,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_2_7,2,Q56,Completely false,2,ALL,C28,MiloLalaMaxLuna
+group_2_7,2,Q57,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_2_7,2,Q58,Completely false,0,ALL,C29,MiaLokiCocoMilo
+group_2_7,2,Q59,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_2_7,2,Q60,Completely true,4,AND,C30,TomLeoNalaMia
+group_3_1,3,Q1,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_3_1,3,Q2,Neither completely true nor completely false,4,ALL,C1,LalaLokiMaxLuna
+group_3_1,3,Q3,Neither completely true nor completely false,0,FEW,Q82,CocoLunaMiaLala
+group_3_1,3,Q4,Completely false,2,ALL,C2,LokiLeoCocoMilo
+group_3_1,3,Q5,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_3_1,3,Q6,Completely false,0,ALL,C3,LeoMaxNalaMia
+group_3_1,3,Q7,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_3_1,3,Q8,Completely true,4,AND,C4,MaxCocoLunaTom
+group_3_1,3,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_3_1,3,Q10,Completely false,2,AND,C5,CocoNalaMiloLala
+group_3_1,3,Q11,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_3_1,3,Q12,Completely false,0,AND,C6,NalaLunaMiaLoki
+group_3_1,3,Q13,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_3_1,3,Q14,Completely true,4,ALL,C7,LunaMiloTomLeo
+group_3_1,3,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_3_1,3,Q16,Completely false,2,ALL,C8,MiloMiaLalaMax
+group_3_1,3,Q17,Neither completely true nor completely false,1,FEW,Q76,MiaCocoLalaTom
+group_3_1,3,Q18,Completely false,0,ALL,C9,MiaTomLokiCoco
+group_3_1,3,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_3_1,3,Q20,Completely true,4,AND,C10,TomLalaLeoNala
+group_3_1,3,Q21,Neither completely true nor completely false,1,MANY,Q81,MaxNalaMiloTom
+group_3_1,3,Q22,Completely false,2,AND,C11,LalaLokiLeoMax
+group_3_1,3,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_3_1,3,Q24,Completely false,0,AND,C12,LokiLeoMaxCoco
+group_3_1,3,Q25,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_3_1,3,Q26,Completely true,4,ALL,C13,LeoMaxCocoNala
+group_3_1,3,Q27,Completely false,2,FEW,Q75,MiloMaxTomMia
+group_3_1,3,Q28,Completely false,2,ALL,C14,MaxCocoNalaLuna
+group_3_1,3,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_3_1,3,Q30,Completely false,0,ALL,C15,CocoNalaLunaMilo
+group_3_1,3,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_3_1,3,Q32,Completely true,4,AND,C16,NalaLunaMiloMia
+group_3_1,3,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_3_1,3,Q34,Completely false,2,AND,C17,LunaMiloMiaTom
+group_3_1,3,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_3_1,3,Q36,Completely false,0,AND,C18,MiloMiaTomLala
+group_3_1,3,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_3_1,3,Q38,Completely true,4,ALL,C19,MiaTomLalaLoki
+group_3_1,3,Q39,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_3_1,3,Q40,Completely false,2,ALL,C20,TomLalaLokiLeo
+group_3_1,3,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_3_1,3,Q42,Completely false,0,ALL,C21,LalaMaxLunaTom
+group_3_1,3,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_3_1,3,Q44,Completely true,4,AND,C22,LokiCocoMiloLala
+group_3_1,3,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_3_1,3,Q46,Completely false,2,AND,C23,LeoNalaMiaLoki
+group_3_1,3,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_3_1,3,Q48,Neither completely true nor completely false,0,AND,C24,MaxLunaTomLeo
+group_3_1,3,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_3_1,3,Q50,Completely true,4,ALL,C25,CocoMiloLalaMax
+group_3_1,3,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_3_1,3,Q52,Completely false,2,ALL,C26,NalaMiaLokiCoco
+group_3_1,3,Q53,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_3_1,3,Q54,Completely false,0,ALL,C27,LunaTomLeoNala
+group_3_1,3,Q55,Completely false,4,FEW,U1,LalaLokiLeoNala
+group_3_1,3,Q56,Completely true,4,AND,C28,MiloLalaMaxLuna
+group_3_1,3,Q57,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_3_1,3,Q58,Completely false,2,AND,C29,MiaLokiCocoMilo
+group_3_1,3,Q59,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_3_1,3,Q60,Completely false,0,AND,C30,TomLeoNalaMia
+group_3_2,3,Q1,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_3_2,3,Q2,Completely true,4,ALL,C1,LalaLokiMaxLuna
+group_3_2,3,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_3_2,3,Q4,Completely false,2,ALL,C2,LokiLeoCocoMilo
+group_3_2,3,Q5,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_3_2,3,Q6,Completely false,0,ALL,C3,LeoMaxNalaMia
+group_3_2,3,Q7,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_3_2,3,Q8,Completely true,4,AND,C4,MaxCocoLunaTom
+group_3_2,3,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_3_2,3,Q10,Completely false,2,AND,C5,CocoNalaMiloLala
+group_3_2,3,Q11,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_3_2,3,Q12,Completely false,0,AND,C6,NalaLunaMiaLoki
+group_3_2,3,Q13,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_3_2,3,Q14,Completely true,4,ALL,C7,LunaMiloTomLeo
+group_3_2,3,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_3_2,3,Q16,Completely false,2,ALL,C8,MiloMiaLalaMax
+group_3_2,3,Q17,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_3_2,3,Q18,Completely false,0,ALL,C9,MiaTomLokiCoco
+group_3_2,3,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_3_2,3,Q20,Completely true,4,AND,C10,TomLalaLeoNala
+group_3_2,3,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_3_2,3,Q22,Completely false,2,AND,C11,LalaLokiLeoMax
+group_3_2,3,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_3_2,3,Q24,Completely false,0,AND,C12,LokiLeoMaxCoco
+group_3_2,3,Q25,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_3_2,3,Q26,Completely true,4,ALL,C13,LeoMaxCocoNala
+group_3_2,3,Q27,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_3_2,3,Q28,Completely false,2,ALL,C14,MaxCocoNalaLuna
+group_3_2,3,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_3_2,3,Q30,Completely false,0,ALL,C15,CocoNalaLunaMilo
+group_3_2,3,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_3_2,3,Q32,Completely true,4,AND,C16,NalaLunaMiloMia
+group_3_2,3,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_3_2,3,Q34,Completely false,2,AND,C17,LunaMiloMiaTom
+group_3_2,3,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_3_2,3,Q36,Completely false,0,AND,C18,MiloMiaTomLala
+group_3_2,3,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_3_2,3,Q38,Completely true,4,ALL,C19,MiaTomLalaLoki
+group_3_2,3,Q39,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_3_2,3,Q40,Completely false,2,ALL,C20,TomLalaLokiLeo
+group_3_2,3,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_3_2,3,Q42,Completely false,0,ALL,C21,LalaMaxLunaTom
+group_3_2,3,Q43,Neither completely true nor completely false,3,MANY,Q84,LunaMiaLalaLeo
+group_3_2,3,Q44,Completely true,4,AND,C22,LokiCocoMiloLala
+group_3_2,3,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_3_2,3,Q46,Completely false,2,AND,C23,LeoNalaMiaLoki
+group_3_2,3,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_3_2,3,Q48,Completely false,0,AND,C24,MaxLunaTomLeo
+group_3_2,3,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_3_2,3,Q50,Completely true,4,ALL,C25,CocoMiloLalaMax
+group_3_2,3,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_3_2,3,Q52,Completely false,2,ALL,C26,NalaMiaLokiCoco
+group_3_2,3,Q53,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_3_2,3,Q54,Completely false,0,ALL,C27,LunaTomLeoNala
+group_3_2,3,Q55,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_3_2,3,Q56,Completely true,4,AND,C28,MiloLalaMaxLuna
+group_3_2,3,Q57,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_3_2,3,Q58,Completely false,2,AND,C29,MiaLokiCocoMilo
+group_3_2,3,Q59,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_3_2,3,Q60,Completely false,0,AND,C30,TomLeoNalaMia
+group_3_3,3,Q1,Neither completely true nor completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_3_3,3,Q2,Completely true,4,ALL,C1,LalaLokiMaxLuna
+group_3_3,3,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_3_3,3,Q4,Completely false,2,ALL,C2,LokiLeoCocoMilo
+group_3_3,3,Q5,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_3_3,3,Q6,Completely false,0,ALL,C3,LeoMaxNalaMia
+group_3_3,3,Q7,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_3_3,3,Q8,Completely true,4,AND,C4,MaxCocoLunaTom
+group_3_3,3,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_3_3,3,Q10,Neither completely true nor completely false,2,AND,C5,CocoNalaMiloLala
+group_3_3,3,Q11,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_3_3,3,Q12,Completely false,0,AND,C6,NalaLunaMiaLoki
+group_3_3,3,Q13,Completely false,0,LESS,Q67,TomLalaLokiCoco
+group_3_3,3,Q14,Completely true,4,ALL,C7,LunaMiloTomLeo
+group_3_3,3,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_3_3,3,Q16,Completely false,2,ALL,C8,MiloMiaLalaMax
+group_3_3,3,Q17,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_3_3,3,Q18,Completely false,0,ALL,C9,MiaTomLokiCoco
+group_3_3,3,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_3_3,3,Q20,Completely true,4,AND,C10,TomLalaLeoNala
+group_3_3,3,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_3_3,3,Q22,Neither completely true nor completely false,2,AND,C11,LalaLokiLeoMax
+group_3_3,3,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_3_3,3,Q24,Completely false,0,AND,C12,LokiLeoMaxCoco
+group_3_3,3,Q25,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_3_3,3,Q26,Completely true,4,ALL,C13,LeoMaxCocoNala
+group_3_3,3,Q27,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_3_3,3,Q28,Completely false,2,ALL,C14,MaxCocoNalaLuna
+group_3_3,3,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_3_3,3,Q30,Completely false,0,ALL,C15,CocoNalaLunaMilo
+group_3_3,3,Q31,Completely false,0,LESS,Q87,TomLokiMaxNala
+group_3_3,3,Q32,Completely true,4,AND,C16,NalaLunaMiloMia
+group_3_3,3,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_3_3,3,Q34,Neither completely true nor completely false,2,AND,C17,LunaMiloMiaTom
+group_3_3,3,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_3_3,3,Q36,Completely false,0,AND,C18,MiloMiaTomLala
+group_3_3,3,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_3_3,3,Q38,Completely true,4,ALL,C19,MiaTomLalaLoki
+group_3_3,3,Q39,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_3_3,3,Q40,Completely false,2,ALL,C20,TomLalaLokiLeo
+group_3_3,3,Q41,Neither completely true nor completely false,3,FEW,Q69,LokiMiloMaxLeo
+group_3_3,3,Q42,Completely false,0,ALL,C21,LalaMaxLunaTom
+group_3_3,3,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_3_3,3,Q44,Completely true,4,AND,C22,LokiCocoMiloLala
+group_3_3,3,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_3_3,3,Q46,Neither completely true nor completely false,2,AND,C23,LeoNalaMiaLoki
+group_3_3,3,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_3_3,3,Q48,Completely false,0,AND,C24,MaxLunaTomLeo
+group_3_3,3,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_3_3,3,Q50,Completely true,4,ALL,C25,CocoMiloLalaMax
+group_3_3,3,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_3_3,3,Q52,Completely false,2,ALL,C26,NalaMiaLokiCoco
+group_3_3,3,Q53,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_3_3,3,Q54,Completely false,0,ALL,C27,LunaTomLeoNala
+group_3_3,3,Q55,Neither completely true nor completely false,4,FEW,U1,LalaLokiLeoNala
+group_3_3,3,Q56,Completely true,4,AND,C28,MiloLalaMaxLuna
+group_3_3,3,Q57,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_3_3,3,Q58,Neither completely true nor completely false,2,AND,C29,MiaLokiCocoMilo
+group_3_3,3,Q59,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_3_3,3,Q60,Completely false,0,AND,C30,TomLeoNalaMia
+group_3_4,3,Q1,Neither completely true nor completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_3_4,3,Q2,Completely false,4,ALL,C1,LalaLokiMaxLuna
+group_3_4,3,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_3_4,3,Q4,Completely false,2,ALL,C2,LokiLeoCocoMilo
+group_3_4,3,Q5,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_3_4,3,Q6,Completely false,0,ALL,C3,LeoMaxNalaMia
+group_3_4,3,Q7,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_3_4,3,Q8,Completely true,4,AND,C4,MaxCocoLunaTom
+group_3_4,3,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_3_4,3,Q10,Completely false,2,AND,C5,CocoNalaMiloLala
+group_3_4,3,Q11,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_3_4,3,Q12,Completely false,0,AND,C6,NalaLunaMiaLoki
+group_3_4,3,Q13,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_3_4,3,Q14,Completely true,4,ALL,C7,LunaMiloTomLeo
+group_3_4,3,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_3_4,3,Q16,Completely false,2,ALL,C8,MiloMiaLalaMax
+group_3_4,3,Q17,Neither completely true nor completely false,1,FEW,Q76,MiaCocoLalaTom
+group_3_4,3,Q18,Completely false,0,ALL,C9,MiaTomLokiCoco
+group_3_4,3,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_3_4,3,Q20,Completely true,4,AND,C10,TomLalaLeoNala
+group_3_4,3,Q21,Neither completely true nor completely false,1,MANY,Q81,MaxNalaMiloTom
+group_3_4,3,Q22,Completely false,2,AND,C11,LalaLokiLeoMax
+group_3_4,3,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_3_4,3,Q24,Completely false,0,AND,C12,LokiLeoMaxCoco
+group_3_4,3,Q25,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_3_4,3,Q26,Completely true,4,ALL,C13,LeoMaxCocoNala
+group_3_4,3,Q27,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_3_4,3,Q28,Completely false,2,ALL,C14,MaxCocoNalaLuna
+group_3_4,3,Q29,Neither completely true nor completely false,4,MANY,Q78,LalaLeoCocoLuna
+group_3_4,3,Q30,Completely false,0,ALL,C15,CocoNalaLunaMilo
+group_3_4,3,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_3_4,3,Q32,Completely true,4,AND,C16,NalaLunaMiloMia
+group_3_4,3,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_3_4,3,Q34,Completely false,2,AND,C17,LunaMiloMiaTom
+group_3_4,3,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_3_4,3,Q36,Completely false,0,AND,C18,MiloMiaTomLala
+group_3_4,3,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_3_4,3,Q38,Completely true,4,ALL,C19,MiaTomLalaLoki
+group_3_4,3,Q39,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_3_4,3,Q40,Completely false,2,ALL,C20,TomLalaLokiLeo
+group_3_4,3,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_3_4,3,Q42,Completely false,0,ALL,C21,LalaMaxLunaTom
+group_3_4,3,Q43,Neither completely true nor completely false,3,MANY,Q84,LunaMiaLalaLeo
+group_3_4,3,Q44,Completely true,4,AND,C22,LokiCocoMiloLala
+group_3_4,3,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_3_4,3,Q46,Completely false,2,AND,C23,LeoNalaMiaLoki
+group_3_4,3,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_3_4,3,Q48,Completely false,0,AND,C24,MaxLunaTomLeo
+group_3_4,3,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_3_4,3,Q50,Completely true,4,ALL,C25,CocoMiloLalaMax
+group_3_4,3,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_3_4,3,Q52,Completely false,2,ALL,C26,NalaMiaLokiCoco
+group_3_4,3,Q53,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_3_4,3,Q54,Completely false,0,ALL,C27,LunaTomLeoNala
+group_3_4,3,Q55,Neither completely true nor completely false,4,FEW,U1,LalaLokiLeoNala
+group_3_4,3,Q56,Completely true,4,AND,C28,MiloLalaMaxLuna
+group_3_4,3,Q57,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_3_4,3,Q58,Completely false,2,AND,C29,MiaLokiCocoMilo
+group_3_4,3,Q59,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_3_4,3,Q60,Completely false,0,AND,C30,TomLeoNalaMia
+group_3_5,3,Q1,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_3_5,3,Q2,Completely true,4,ALL,C1,LalaLokiMaxLuna
+group_3_5,3,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_3_5,3,Q4,Completely false,2,ALL,C2,LokiLeoCocoMilo
+group_3_5,3,Q5,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_3_5,3,Q6,Completely false,0,ALL,C3,LeoMaxNalaMia
+group_3_5,3,Q7,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_3_5,3,Q8,Completely true,4,AND,C4,MaxCocoLunaTom
+group_3_5,3,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_3_5,3,Q10,Completely false,2,AND,C5,CocoNalaMiloLala
+group_3_5,3,Q11,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_3_5,3,Q12,Completely false,0,AND,C6,NalaLunaMiaLoki
+group_3_5,3,Q13,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_3_5,3,Q14,Completely true,4,ALL,C7,LunaMiloTomLeo
+group_3_5,3,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_3_5,3,Q16,Completely false,2,ALL,C8,MiloMiaLalaMax
+group_3_5,3,Q17,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_3_5,3,Q18,Completely false,0,ALL,C9,MiaTomLokiCoco
+group_3_5,3,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_3_5,3,Q20,Completely true,4,AND,C10,TomLalaLeoNala
+group_3_5,3,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_3_5,3,Q22,Completely false,2,AND,C11,LalaLokiLeoMax
+group_3_5,3,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_3_5,3,Q24,Completely false,0,AND,C12,LokiLeoMaxCoco
+group_3_5,3,Q25,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_3_5,3,Q26,Completely true,4,ALL,C13,LeoMaxCocoNala
+group_3_5,3,Q27,Completely true,2,FEW,Q75,MiloMaxTomMia
+group_3_5,3,Q28,Completely false,2,ALL,C14,MaxCocoNalaLuna
+group_3_5,3,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_3_5,3,Q30,Completely false,0,ALL,C15,CocoNalaLunaMilo
+group_3_5,3,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_3_5,3,Q32,Completely true,4,AND,C16,NalaLunaMiloMia
+group_3_5,3,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_3_5,3,Q34,Completely false,2,AND,C17,LunaMiloMiaTom
+group_3_5,3,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_3_5,3,Q36,Completely false,0,AND,C18,MiloMiaTomLala
+group_3_5,3,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_3_5,3,Q38,Completely true,4,ALL,C19,MiaTomLalaLoki
+group_3_5,3,Q39,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_3_5,3,Q40,Completely false,2,ALL,C20,TomLalaLokiLeo
+group_3_5,3,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_3_5,3,Q42,Completely false,0,ALL,C21,LalaMaxLunaTom
+group_3_5,3,Q43,Neither completely true nor completely false,3,MANY,Q84,LunaMiaLalaLeo
+group_3_5,3,Q44,Completely true,4,AND,C22,LokiCocoMiloLala
+group_3_5,3,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_3_5,3,Q46,Completely false,2,AND,C23,LeoNalaMiaLoki
+group_3_5,3,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_3_5,3,Q48,Completely false,0,AND,C24,MaxLunaTomLeo
+group_3_5,3,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_3_5,3,Q50,Completely true,4,ALL,C25,CocoMiloLalaMax
+group_3_5,3,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_3_5,3,Q52,Completely false,2,ALL,C26,NalaMiaLokiCoco
+group_3_5,3,Q53,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_3_5,3,Q54,Completely false,0,ALL,C27,LunaTomLeoNala
+group_3_5,3,Q55,Completely false,4,FEW,U1,LalaLokiLeoNala
+group_3_5,3,Q56,Completely true,4,AND,C28,MiloLalaMaxLuna
+group_3_5,3,Q57,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_3_5,3,Q58,Completely false,2,AND,C29,MiaLokiCocoMilo
+group_3_5,3,Q59,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_3_5,3,Q60,Completely false,0,AND,C30,TomLeoNalaMia
+group_3_6,3,Q1,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_3_6,3,Q2,Completely true,4,ALL,C1,LalaLokiMaxLuna
+group_3_6,3,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_3_6,3,Q4,Completely false,2,ALL,C2,LokiLeoCocoMilo
+group_3_6,3,Q5,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_3_6,3,Q6,Completely false,0,ALL,C3,LeoMaxNalaMia
+group_3_6,3,Q7,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_3_6,3,Q8,Completely true,4,AND,C4,MaxCocoLunaTom
+group_3_6,3,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_3_6,3,Q10,Completely false,2,AND,C5,CocoNalaMiloLala
+group_3_6,3,Q11,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_3_6,3,Q12,Completely false,0,AND,C6,NalaLunaMiaLoki
+group_3_6,3,Q13,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_3_6,3,Q14,Completely true,4,ALL,C7,LunaMiloTomLeo
+group_3_6,3,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_3_6,3,Q16,Completely false,2,ALL,C8,MiloMiaLalaMax
+group_3_6,3,Q17,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_3_6,3,Q18,Completely false,0,ALL,C9,MiaTomLokiCoco
+group_3_6,3,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_3_6,3,Q20,Completely true,4,AND,C10,TomLalaLeoNala
+group_3_6,3,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_3_6,3,Q22,Completely false,2,AND,C11,LalaLokiLeoMax
+group_3_6,3,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_3_6,3,Q24,Completely false,0,AND,C12,LokiLeoMaxCoco
+group_3_6,3,Q25,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_3_6,3,Q26,Completely true,4,ALL,C13,LeoMaxCocoNala
+group_3_6,3,Q27,Completely true,2,FEW,Q75,MiloMaxTomMia
+group_3_6,3,Q28,Completely false,2,ALL,C14,MaxCocoNalaLuna
+group_3_6,3,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_3_6,3,Q30,Completely false,0,ALL,C15,CocoNalaLunaMilo
+group_3_6,3,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_3_6,3,Q32,Completely true,4,AND,C16,NalaLunaMiloMia
+group_3_6,3,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_3_6,3,Q34,Completely false,2,AND,C17,LunaMiloMiaTom
+group_3_6,3,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_3_6,3,Q36,Completely false,0,AND,C18,MiloMiaTomLala
+group_3_6,3,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_3_6,3,Q38,Completely true,4,ALL,C19,MiaTomLalaLoki
+group_3_6,3,Q39,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_3_6,3,Q40,Completely false,2,ALL,C20,TomLalaLokiLeo
+group_3_6,3,Q41,Neither completely true nor completely false,3,FEW,Q69,LokiMiloMaxLeo
+group_3_6,3,Q42,Completely false,0,ALL,C21,LalaMaxLunaTom
+group_3_6,3,Q43,Neither completely true nor completely false,3,MANY,Q84,LunaMiaLalaLeo
+group_3_6,3,Q44,Completely true,4,AND,C22,LokiCocoMiloLala
+group_3_6,3,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_3_6,3,Q46,Completely false,2,AND,C23,LeoNalaMiaLoki
+group_3_6,3,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_3_6,3,Q48,Completely false,0,AND,C24,MaxLunaTomLeo
+group_3_6,3,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_3_6,3,Q50,Completely true,4,ALL,C25,CocoMiloLalaMax
+group_3_6,3,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_3_6,3,Q52,Completely false,2,ALL,C26,NalaMiaLokiCoco
+group_3_6,3,Q53,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_3_6,3,Q54,Completely false,0,ALL,C27,LunaTomLeoNala
+group_3_6,3,Q55,Neither completely true nor completely false,4,FEW,U1,LalaLokiLeoNala
+group_3_6,3,Q56,Completely true,4,AND,C28,MiloLalaMaxLuna
+group_3_6,3,Q57,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_3_6,3,Q58,Completely false,2,AND,C29,MiaLokiCocoMilo
+group_3_6,3,Q59,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_3_6,3,Q60,Completely false,0,AND,C30,TomLeoNalaMia
+group_3_7,3,Q1,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_3_7,3,Q2,Completely true,4,ALL,C1,LalaLokiMaxLuna
+group_3_7,3,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_3_7,3,Q4,Completely false,2,ALL,C2,LokiLeoCocoMilo
+group_3_7,3,Q5,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_3_7,3,Q6,Completely false,0,ALL,C3,LeoMaxNalaMia
+group_3_7,3,Q7,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_3_7,3,Q8,Completely true,4,AND,C4,MaxCocoLunaTom
+group_3_7,3,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_3_7,3,Q10,Neither completely true nor completely false,2,AND,C5,CocoNalaMiloLala
+group_3_7,3,Q11,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_3_7,3,Q12,Completely false,0,AND,C6,NalaLunaMiaLoki
+group_3_7,3,Q13,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_3_7,3,Q14,Completely true,4,ALL,C7,LunaMiloTomLeo
+group_3_7,3,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_3_7,3,Q16,Completely false,2,ALL,C8,MiloMiaLalaMax
+group_3_7,3,Q17,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_3_7,3,Q18,Completely false,0,ALL,C9,MiaTomLokiCoco
+group_3_7,3,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_3_7,3,Q20,Completely true,4,AND,C10,TomLalaLeoNala
+group_3_7,3,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_3_7,3,Q22,Neither completely true nor completely false,2,AND,C11,LalaLokiLeoMax
+group_3_7,3,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_3_7,3,Q24,Completely false,0,AND,C12,LokiLeoMaxCoco
+group_3_7,3,Q25,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_3_7,3,Q26,Completely true,4,ALL,C13,LeoMaxCocoNala
+group_3_7,3,Q27,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_3_7,3,Q28,Completely false,2,ALL,C14,MaxCocoNalaLuna
+group_3_7,3,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_3_7,3,Q30,Completely false,0,ALL,C15,CocoNalaLunaMilo
+group_3_7,3,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_3_7,3,Q32,Completely true,4,AND,C16,NalaLunaMiloMia
+group_3_7,3,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_3_7,3,Q34,Neither completely true nor completely false,2,AND,C17,LunaMiloMiaTom
+group_3_7,3,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_3_7,3,Q36,Completely false,0,AND,C18,MiloMiaTomLala
+group_3_7,3,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_3_7,3,Q38,Completely true,4,ALL,C19,MiaTomLalaLoki
+group_3_7,3,Q39,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_3_7,3,Q40,Neither completely true nor completely false,2,ALL,C20,TomLalaLokiLeo
+group_3_7,3,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_3_7,3,Q42,Completely false,0,ALL,C21,LalaMaxLunaTom
+group_3_7,3,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_3_7,3,Q44,Completely true,4,AND,C22,LokiCocoMiloLala
+group_3_7,3,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_3_7,3,Q46,Neither completely true nor completely false,2,AND,C23,LeoNalaMiaLoki
+group_3_7,3,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_3_7,3,Q48,Completely false,0,AND,C24,MaxLunaTomLeo
+group_3_7,3,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_3_7,3,Q50,Completely true,4,ALL,C25,CocoMiloLalaMax
+group_3_7,3,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_3_7,3,Q52,Completely false,2,ALL,C26,NalaMiaLokiCoco
+group_3_7,3,Q53,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_3_7,3,Q54,Completely false,0,ALL,C27,LunaTomLeoNala
+group_3_7,3,Q55,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_3_7,3,Q56,Completely true,4,AND,C28,MiloLalaMaxLuna
+group_3_7,3,Q57,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_3_7,3,Q58,Neither completely true nor completely false,2,AND,C29,MiaLokiCocoMilo
+group_3_7,3,Q59,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_3_7,3,Q60,Completely false,0,AND,C30,TomLeoNalaMia
+group_4_1,4,Q1,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_4_1,4,Q2,Completely true,4,AND,C1,LalaLokiMaxLuna
+group_4_1,4,Q3,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_4_1,4,Q4,Completely false,2,AND,C2,LokiLeoCocoMilo
+group_4_1,4,Q5,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_4_1,4,Q6,Completely false,0,AND,C3,LeoMaxNalaMia
+group_4_1,4,Q7,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_4_1,4,Q8,Completely true,4,ALL,C4,MaxCocoLunaTom
+group_4_1,4,Q9,Completely false,2,MANY,Q65,MiloMiaTomLeo
+group_4_1,4,Q10,Completely false,2,ALL,C5,CocoNalaMiloLala
+group_4_1,4,Q11,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_4_1,4,Q12,Completely false,0,ALL,C6,NalaLunaMiaLoki
+group_4_1,4,Q13,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_4_1,4,Q14,Completely true,4,AND,C7,LunaMiloTomLeo
+group_4_1,4,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_4_1,4,Q16,Completely false,2,AND,C8,MiloMiaLalaMax
+group_4_1,4,Q17,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_4_1,4,Q18,Completely false,0,AND,C9,MiaTomLokiCoco
+group_4_1,4,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_4_1,4,Q20,Completely true,4,ALL,C10,TomLalaLeoNala
+group_4_1,4,Q21,Completely false,0,LESS,Q87,TomLokiMaxNala
+group_4_1,4,Q22,Completely false,2,ALL,C11,LalaLokiLeoMax
+group_4_1,4,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_4_1,4,Q24,Completely false,0,ALL,C12,LokiLeoMaxCoco
+group_4_1,4,Q25,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_4_1,4,Q26,Completely true,4,AND,C13,LeoMaxCocoNala
+group_4_1,4,Q27,Completely false,2,FEW,Q75,MiloMaxTomMia
+group_4_1,4,Q28,Completely false,2,AND,C14,MaxCocoNalaLuna
+group_4_1,4,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_4_1,4,Q30,Completely false,0,AND,C15,CocoNalaLunaMilo
+group_4_1,4,Q31,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_4_1,4,Q32,Completely true,4,ALL,C16,NalaLunaMiloMia
+group_4_1,4,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_4_1,4,Q34,Completely false,2,ALL,C17,LunaMiloMiaTom
+group_4_1,4,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_4_1,4,Q36,Completely false,0,ALL,C18,MiloMiaTomLala
+group_4_1,4,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_4_1,4,Q38,Completely true,4,AND,C19,MiaTomLalaLoki
+group_4_1,4,Q39,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_4_1,4,Q40,Completely false,2,AND,C20,TomLalaLokiLeo
+group_4_1,4,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_4_1,4,Q42,Completely false,0,AND,C21,LalaMaxLunaTom
+group_4_1,4,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_4_1,4,Q44,Completely true,4,ALL,C22,LokiCocoMiloLala
+group_4_1,4,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_4_1,4,Q46,Completely false,2,ALL,C23,LeoNalaMiaLoki
+group_4_1,4,Q47,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_4_1,4,Q48,Completely false,0,ALL,C24,MaxLunaTomLeo
+group_4_1,4,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_4_1,4,Q50,Completely true,4,AND,C25,CocoMiloLalaMax
+group_4_1,4,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_4_1,4,Q52,Completely false,2,AND,C26,NalaMiaLokiCoco
+group_4_1,4,Q53,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_4_1,4,Q54,Completely false,0,AND,C27,LunaTomLeoNala
+group_4_1,4,Q55,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_4_1,4,Q56,Completely true,4,ALL,C28,MiloLalaMaxLuna
+group_4_1,4,Q57,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_4_1,4,Q58,Completely false,2,ALL,C29,MiaLokiCocoMilo
+group_4_1,4,Q59,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_4_1,4,Q60,Completely false,0,ALL,C30,TomLeoNalaMia
+group_4_2,4,Q1,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_4_2,4,Q2,Completely true,4,AND,C1,LalaLokiMaxLuna
+group_4_2,4,Q3,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_4_2,4,Q4,Neither completely true nor completely false,2,AND,C2,LokiLeoCocoMilo
+group_4_2,4,Q5,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_4_2,4,Q6,Completely false,0,AND,C3,LeoMaxNalaMia
+group_4_2,4,Q7,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_4_2,4,Q8,Completely true,4,ALL,C4,MaxCocoLunaTom
+group_4_2,4,Q9,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_4_2,4,Q10,Completely false,2,ALL,C5,CocoNalaMiloLala
+group_4_2,4,Q11,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_4_2,4,Q12,Completely false,0,ALL,C6,NalaLunaMiaLoki
+group_4_2,4,Q13,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_4_2,4,Q14,Completely true,4,AND,C7,LunaMiloTomLeo
+group_4_2,4,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_4_2,4,Q16,Neither completely true nor completely false,2,AND,C8,MiloMiaLalaMax
+group_4_2,4,Q17,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_4_2,4,Q18,Completely false,0,AND,C9,MiaTomLokiCoco
+group_4_2,4,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_4_2,4,Q20,Completely true,4,ALL,C10,TomLalaLeoNala
+group_4_2,4,Q21,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_4_2,4,Q22,Completely false,2,ALL,C11,LalaLokiLeoMax
+group_4_2,4,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_4_2,4,Q24,Completely false,0,ALL,C12,LokiLeoMaxCoco
+group_4_2,4,Q25,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_4_2,4,Q26,Completely true,4,AND,C13,LeoMaxCocoNala
+group_4_2,4,Q27,Completely true,2,FEW,Q75,MiloMaxTomMia
+group_4_2,4,Q28,Neither completely true nor completely false,2,AND,C14,MaxCocoNalaLuna
+group_4_2,4,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_4_2,4,Q30,Completely false,0,AND,C15,CocoNalaLunaMilo
+group_4_2,4,Q31,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_4_2,4,Q32,Completely true,4,ALL,C16,NalaLunaMiloMia
+group_4_2,4,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_4_2,4,Q34,Completely false,2,ALL,C17,LunaMiloMiaTom
+group_4_2,4,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_4_2,4,Q36,Completely false,0,ALL,C18,MiloMiaTomLala
+group_4_2,4,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_4_2,4,Q38,Completely true,4,AND,C19,MiaTomLalaLoki
+group_4_2,4,Q39,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_4_2,4,Q40,Neither completely true nor completely false,2,AND,C20,TomLalaLokiLeo
+group_4_2,4,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_4_2,4,Q42,Completely false,0,AND,C21,LalaMaxLunaTom
+group_4_2,4,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_4_2,4,Q44,Completely true,4,ALL,C22,LokiCocoMiloLala
+group_4_2,4,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_4_2,4,Q46,Completely false,2,ALL,C23,LeoNalaMiaLoki
+group_4_2,4,Q47,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_4_2,4,Q48,Completely false,0,ALL,C24,MaxLunaTomLeo
+group_4_2,4,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_4_2,4,Q50,Completely true,4,AND,C25,CocoMiloLalaMax
+group_4_2,4,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_4_2,4,Q52,Neither completely true nor completely false,2,AND,C26,NalaMiaLokiCoco
+group_4_2,4,Q53,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_4_2,4,Q54,Completely false,0,AND,C27,LunaTomLeoNala
+group_4_2,4,Q55,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_4_2,4,Q56,Completely true,4,ALL,C28,MiloLalaMaxLuna
+group_4_2,4,Q57,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_4_2,4,Q58,Completely false,2,ALL,C29,MiaLokiCocoMilo
+group_4_2,4,Q59,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_4_2,4,Q60,Completely false,0,ALL,C30,TomLeoNalaMia
+group_4_3,4,Q1,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_4_3,4,Q2,Completely true,4,AND,C1,LalaLokiMaxLuna
+group_4_3,4,Q3,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_4_3,4,Q4,Neither completely true nor completely false,2,AND,C2,LokiLeoCocoMilo
+group_4_3,4,Q5,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_4_3,4,Q6,Completely false,0,AND,C3,LeoMaxNalaMia
+group_4_3,4,Q7,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_4_3,4,Q8,Completely true,4,ALL,C4,MaxCocoLunaTom
+group_4_3,4,Q9,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_4_3,4,Q10,Completely false,2,ALL,C5,CocoNalaMiloLala
+group_4_3,4,Q11,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_4_3,4,Q12,Completely false,0,ALL,C6,NalaLunaMiaLoki
+group_4_3,4,Q13,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_4_3,4,Q14,Completely true,4,AND,C7,LunaMiloTomLeo
+group_4_3,4,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_4_3,4,Q16,Neither completely true nor completely false,2,AND,C8,MiloMiaLalaMax
+group_4_3,4,Q17,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_4_3,4,Q18,Completely false,0,AND,C9,MiaTomLokiCoco
+group_4_3,4,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_4_3,4,Q20,Completely true,4,ALL,C10,TomLalaLeoNala
+group_4_3,4,Q21,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_4_3,4,Q22,Completely false,2,ALL,C11,LalaLokiLeoMax
+group_4_3,4,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_4_3,4,Q24,Completely false,0,ALL,C12,LokiLeoMaxCoco
+group_4_3,4,Q25,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_4_3,4,Q26,Completely true,4,AND,C13,LeoMaxCocoNala
+group_4_3,4,Q27,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_4_3,4,Q28,Completely false,2,AND,C14,MaxCocoNalaLuna
+group_4_3,4,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_4_3,4,Q30,Completely false,0,AND,C15,CocoNalaLunaMilo
+group_4_3,4,Q31,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_4_3,4,Q32,Completely true,4,ALL,C16,NalaLunaMiloMia
+group_4_3,4,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_4_3,4,Q34,Completely false,2,ALL,C17,LunaMiloMiaTom
+group_4_3,4,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_4_3,4,Q36,Completely false,0,ALL,C18,MiloMiaTomLala
+group_4_3,4,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_4_3,4,Q38,Completely true,4,AND,C19,MiaTomLalaLoki
+group_4_3,4,Q39,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_4_3,4,Q40,Neither completely true nor completely false,2,AND,C20,TomLalaLokiLeo
+group_4_3,4,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_4_3,4,Q42,Completely false,0,AND,C21,LalaMaxLunaTom
+group_4_3,4,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_4_3,4,Q44,Completely true,4,ALL,C22,LokiCocoMiloLala
+group_4_3,4,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_4_3,4,Q46,Completely false,2,ALL,C23,LeoNalaMiaLoki
+group_4_3,4,Q47,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_4_3,4,Q48,Completely false,0,ALL,C24,MaxLunaTomLeo
+group_4_3,4,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_4_3,4,Q50,Completely true,4,AND,C25,CocoMiloLalaMax
+group_4_3,4,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_4_3,4,Q52,Completely false,2,AND,C26,NalaMiaLokiCoco
+group_4_3,4,Q53,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_4_3,4,Q54,Completely false,0,AND,C27,LunaTomLeoNala
+group_4_3,4,Q55,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_4_3,4,Q56,Completely true,4,ALL,C28,MiloLalaMaxLuna
+group_4_3,4,Q57,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_4_3,4,Q58,Completely false,2,ALL,C29,MiaLokiCocoMilo
+group_4_3,4,Q59,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_4_3,4,Q60,Completely false,0,ALL,C30,TomLeoNalaMia
+group_4_4,4,Q1,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_4_4,4,Q2,Completely true,4,AND,C1,LalaLokiMaxLuna
+group_4_4,4,Q3,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_4_4,4,Q4,Neither completely true nor completely false,2,AND,C2,LokiLeoCocoMilo
+group_4_4,4,Q5,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_4_4,4,Q6,Completely false,0,AND,C3,LeoMaxNalaMia
+group_4_4,4,Q7,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_4_4,4,Q8,Completely true,4,ALL,C4,MaxCocoLunaTom
+group_4_4,4,Q9,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_4_4,4,Q10,Completely false,2,ALL,C5,CocoNalaMiloLala
+group_4_4,4,Q11,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_4_4,4,Q12,Completely false,0,ALL,C6,NalaLunaMiaLoki
+group_4_4,4,Q13,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_4_4,4,Q14,Completely true,4,AND,C7,LunaMiloTomLeo
+group_4_4,4,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_4_4,4,Q16,Neither completely true nor completely false,2,AND,C8,MiloMiaLalaMax
+group_4_4,4,Q17,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_4_4,4,Q18,Completely false,0,AND,C9,MiaTomLokiCoco
+group_4_4,4,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_4_4,4,Q20,Completely true,4,ALL,C10,TomLalaLeoNala
+group_4_4,4,Q21,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_4_4,4,Q22,Completely false,2,ALL,C11,LalaLokiLeoMax
+group_4_4,4,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_4_4,4,Q24,Completely false,0,ALL,C12,LokiLeoMaxCoco
+group_4_4,4,Q25,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_4_4,4,Q26,Completely true,4,AND,C13,LeoMaxCocoNala
+group_4_4,4,Q27,Completely true,2,FEW,Q75,MiloMaxTomMia
+group_4_4,4,Q28,Neither completely true nor completely false,2,AND,C14,MaxCocoNalaLuna
+group_4_4,4,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_4_4,4,Q30,Completely false,0,AND,C15,CocoNalaLunaMilo
+group_4_4,4,Q31,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_4_4,4,Q32,Completely true,4,ALL,C16,NalaLunaMiloMia
+group_4_4,4,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_4_4,4,Q34,Completely false,2,ALL,C17,LunaMiloMiaTom
+group_4_4,4,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_4_4,4,Q36,Completely false,0,ALL,C18,MiloMiaTomLala
+group_4_4,4,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_4_4,4,Q38,Completely true,4,AND,C19,MiaTomLalaLoki
+group_4_4,4,Q39,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_4_4,4,Q40,Neither completely true nor completely false,2,AND,C20,TomLalaLokiLeo
+group_4_4,4,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_4_4,4,Q42,Completely false,0,AND,C21,LalaMaxLunaTom
+group_4_4,4,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_4_4,4,Q44,Completely true,4,ALL,C22,LokiCocoMiloLala
+group_4_4,4,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_4_4,4,Q46,Completely false,2,ALL,C23,LeoNalaMiaLoki
+group_4_4,4,Q47,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_4_4,4,Q48,Completely false,0,ALL,C24,MaxLunaTomLeo
+group_4_4,4,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_4_4,4,Q50,Completely true,4,AND,C25,CocoMiloLalaMax
+group_4_4,4,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_4_4,4,Q52,Neither completely true nor completely false,2,AND,C26,NalaMiaLokiCoco
+group_4_4,4,Q53,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_4_4,4,Q54,Completely false,0,AND,C27,LunaTomLeoNala
+group_4_4,4,Q55,Neither completely true nor completely false,4,FEW,U1,LalaLokiLeoNala
+group_4_4,4,Q56,Completely true,4,ALL,C28,MiloLalaMaxLuna
+group_4_4,4,Q57,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_4_4,4,Q58,Completely false,2,ALL,C29,MiaLokiCocoMilo
+group_4_4,4,Q59,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_4_4,4,Q60,Completely false,0,ALL,C30,TomLeoNalaMia
+group_4_5,4,Q1,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_4_5,4,Q2,Completely true,4,AND,C1,LalaLokiMaxLuna
+group_4_5,4,Q3,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_4_5,4,Q4,Completely false,2,AND,C2,LokiLeoCocoMilo
+group_4_5,4,Q5,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_4_5,4,Q6,Completely false,0,AND,C3,LeoMaxNalaMia
+group_4_5,4,Q7,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_4_5,4,Q8,Completely true,4,ALL,C4,MaxCocoLunaTom
+group_4_5,4,Q9,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_4_5,4,Q10,Completely false,2,ALL,C5,CocoNalaMiloLala
+group_4_5,4,Q11,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_4_5,4,Q12,Completely false,0,ALL,C6,NalaLunaMiaLoki
+group_4_5,4,Q13,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_4_5,4,Q14,Completely true,4,AND,C7,LunaMiloTomLeo
+group_4_5,4,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_4_5,4,Q16,Completely false,2,AND,C8,MiloMiaLalaMax
+group_4_5,4,Q17,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_4_5,4,Q18,Completely false,0,AND,C9,MiaTomLokiCoco
+group_4_5,4,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_4_5,4,Q20,Completely true,4,ALL,C10,TomLalaLeoNala
+group_4_5,4,Q21,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_4_5,4,Q22,Completely false,2,ALL,C11,LalaLokiLeoMax
+group_4_5,4,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_4_5,4,Q24,Completely false,0,ALL,C12,LokiLeoMaxCoco
+group_4_5,4,Q25,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_4_5,4,Q26,Completely true,4,AND,C13,LeoMaxCocoNala
+group_4_5,4,Q27,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_4_5,4,Q28,Completely false,2,AND,C14,MaxCocoNalaLuna
+group_4_5,4,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_4_5,4,Q30,Completely false,0,AND,C15,CocoNalaLunaMilo
+group_4_5,4,Q31,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_4_5,4,Q32,Completely true,4,ALL,C16,NalaLunaMiloMia
+group_4_5,4,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_4_5,4,Q34,Completely false,2,ALL,C17,LunaMiloMiaTom
+group_4_5,4,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_4_5,4,Q36,Completely false,0,ALL,C18,MiloMiaTomLala
+group_4_5,4,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_4_5,4,Q38,Completely true,4,AND,C19,MiaTomLalaLoki
+group_4_5,4,Q39,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_4_5,4,Q40,Completely false,2,AND,C20,TomLalaLokiLeo
+group_4_5,4,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_4_5,4,Q42,Completely false,0,AND,C21,LalaMaxLunaTom
+group_4_5,4,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_4_5,4,Q44,Completely true,4,ALL,C22,LokiCocoMiloLala
+group_4_5,4,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_4_5,4,Q46,Completely false,2,ALL,C23,LeoNalaMiaLoki
+group_4_5,4,Q47,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_4_5,4,Q48,Completely false,0,ALL,C24,MaxLunaTomLeo
+group_4_5,4,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_4_5,4,Q50,Completely true,4,AND,C25,CocoMiloLalaMax
+group_4_5,4,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_4_5,4,Q52,Completely false,2,AND,C26,NalaMiaLokiCoco
+group_4_5,4,Q53,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_4_5,4,Q54,Completely false,0,AND,C27,LunaTomLeoNala
+group_4_5,4,Q55,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_4_5,4,Q56,Completely true,4,ALL,C28,MiloLalaMaxLuna
+group_4_5,4,Q57,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_4_5,4,Q58,Completely false,2,ALL,C29,MiaLokiCocoMilo
+group_4_5,4,Q59,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_4_5,4,Q60,Completely false,0,ALL,C30,TomLeoNalaMia
+group_4_6,4,Q1,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_4_6,4,Q2,Completely true,4,AND,C1,LalaLokiMaxLuna
+group_4_6,4,Q3,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_4_6,4,Q4,Neither completely true nor completely false,2,AND,C2,LokiLeoCocoMilo
+group_4_6,4,Q5,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_4_6,4,Q6,Completely false,0,AND,C3,LeoMaxNalaMia
+group_4_6,4,Q7,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_4_6,4,Q8,Completely true,4,ALL,C4,MaxCocoLunaTom
+group_4_6,4,Q9,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_4_6,4,Q10,Completely false,2,ALL,C5,CocoNalaMiloLala
+group_4_6,4,Q11,Neither completely true nor completely false,1,FEW,Q76,MiaCocoLalaTom
+group_4_6,4,Q12,Completely false,0,ALL,C6,NalaLunaMiaLoki
+group_4_6,4,Q13,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_4_6,4,Q14,Completely true,4,AND,C7,LunaMiloTomLeo
+group_4_6,4,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_4_6,4,Q16,Neither completely true nor completely false,2,AND,C8,MiloMiaLalaMax
+group_4_6,4,Q17,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_4_6,4,Q18,Completely false,0,AND,C9,MiaTomLokiCoco
+group_4_6,4,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_4_6,4,Q20,Completely true,4,ALL,C10,TomLalaLeoNala
+group_4_6,4,Q21,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_4_6,4,Q22,Completely false,2,ALL,C11,LalaLokiLeoMax
+group_4_6,4,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_4_6,4,Q24,Completely false,0,ALL,C12,LokiLeoMaxCoco
+group_4_6,4,Q25,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_4_6,4,Q26,Completely true,4,AND,C13,LeoMaxCocoNala
+group_4_6,4,Q27,Completely true,2,FEW,Q75,MiloMaxTomMia
+group_4_6,4,Q28,Completely false,2,AND,C14,MaxCocoNalaLuna
+group_4_6,4,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_4_6,4,Q30,Completely false,0,AND,C15,CocoNalaLunaMilo
+group_4_6,4,Q31,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_4_6,4,Q32,Completely true,4,ALL,C16,NalaLunaMiloMia
+group_4_6,4,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_4_6,4,Q34,Completely false,2,ALL,C17,LunaMiloMiaTom
+group_4_6,4,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_4_6,4,Q36,Completely false,0,ALL,C18,MiloMiaTomLala
+group_4_6,4,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_4_6,4,Q38,Completely true,4,AND,C19,MiaTomLalaLoki
+group_4_6,4,Q39,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_4_6,4,Q40,Completely false,2,AND,C20,TomLalaLokiLeo
+group_4_6,4,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_4_6,4,Q42,Completely false,0,AND,C21,LalaMaxLunaTom
+group_4_6,4,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_4_6,4,Q44,Completely true,4,ALL,C22,LokiCocoMiloLala
+group_4_6,4,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_4_6,4,Q46,Completely false,2,ALL,C23,LeoNalaMiaLoki
+group_4_6,4,Q47,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_4_6,4,Q48,Completely false,0,ALL,C24,MaxLunaTomLeo
+group_4_6,4,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_4_6,4,Q50,Completely true,4,AND,C25,CocoMiloLalaMax
+group_4_6,4,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_4_6,4,Q52,Neither completely true nor completely false,2,AND,C26,NalaMiaLokiCoco
+group_4_6,4,Q53,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_4_6,4,Q54,Completely false,0,AND,C27,LunaTomLeoNala
+group_4_6,4,Q55,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_4_6,4,Q56,Completely true,4,ALL,C28,MiloLalaMaxLuna
+group_4_6,4,Q57,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_4_6,4,Q58,Completely false,2,ALL,C29,MiaLokiCocoMilo
+group_4_6,4,Q59,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_4_6,4,Q60,Completely false,0,ALL,C30,TomLeoNalaMia
+group_4_7,4,Q1,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_4_7,4,Q2,Completely true,4,AND,C1,LalaLokiMaxLuna
+group_4_7,4,Q3,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_4_7,4,Q4,Neither completely true nor completely false,2,AND,C2,LokiLeoCocoMilo
+group_4_7,4,Q5,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_4_7,4,Q6,Completely false,0,AND,C3,LeoMaxNalaMia
+group_4_7,4,Q7,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_4_7,4,Q8,Completely true,4,ALL,C4,MaxCocoLunaTom
+group_4_7,4,Q9,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_4_7,4,Q10,Completely false,2,ALL,C5,CocoNalaMiloLala
+group_4_7,4,Q11,Neither completely true nor completely false,1,FEW,Q76,MiaCocoLalaTom
+group_4_7,4,Q12,Completely false,0,ALL,C6,NalaLunaMiaLoki
+group_4_7,4,Q13,Neither completely true nor completely false,0,LESS,Q67,TomLalaLokiCoco
+group_4_7,4,Q14,Completely true,4,AND,C7,LunaMiloTomLeo
+group_4_7,4,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_4_7,4,Q16,Neither completely true nor completely false,2,AND,C8,MiloMiaLalaMax
+group_4_7,4,Q17,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_4_7,4,Q18,Completely false,0,AND,C9,MiaTomLokiCoco
+group_4_7,4,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_4_7,4,Q20,Completely true,4,ALL,C10,TomLalaLeoNala
+group_4_7,4,Q21,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_4_7,4,Q22,Completely false,2,ALL,C11,LalaLokiLeoMax
+group_4_7,4,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_4_7,4,Q24,Completely false,0,ALL,C12,LokiLeoMaxCoco
+group_4_7,4,Q25,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_4_7,4,Q26,Completely true,4,AND,C13,LeoMaxCocoNala
+group_4_7,4,Q27,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_4_7,4,Q28,Neither completely true nor completely false,2,AND,C14,MaxCocoNalaLuna
+group_4_7,4,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_4_7,4,Q30,Completely false,0,AND,C15,CocoNalaLunaMilo
+group_4_7,4,Q31,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_4_7,4,Q32,Completely true,4,ALL,C16,NalaLunaMiloMia
+group_4_7,4,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_4_7,4,Q34,Completely false,2,ALL,C17,LunaMiloMiaTom
+group_4_7,4,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_4_7,4,Q36,Completely false,0,ALL,C18,MiloMiaTomLala
+group_4_7,4,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_4_7,4,Q38,Completely true,4,AND,C19,MiaTomLalaLoki
+group_4_7,4,Q39,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_4_7,4,Q40,Neither completely true nor completely false,2,AND,C20,TomLalaLokiLeo
+group_4_7,4,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_4_7,4,Q42,Completely false,0,AND,C21,LalaMaxLunaTom
+group_4_7,4,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_4_7,4,Q44,Completely true,4,ALL,C22,LokiCocoMiloLala
+group_4_7,4,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_4_7,4,Q46,Completely false,2,ALL,C23,LeoNalaMiaLoki
+group_4_7,4,Q47,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_4_7,4,Q48,Completely false,0,ALL,C24,MaxLunaTomLeo
+group_4_7,4,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_4_7,4,Q50,Completely true,4,AND,C25,CocoMiloLalaMax
+group_4_7,4,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_4_7,4,Q52,Neither completely true nor completely false,2,AND,C26,NalaMiaLokiCoco
+group_4_7,4,Q53,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_4_7,4,Q54,Completely false,0,AND,C27,LunaTomLeoNala
+group_4_7,4,Q55,Neither completely true nor completely false,4,FEW,U1,LalaLokiLeoNala
+group_4_7,4,Q56,Completely true,4,ALL,C28,MiloLalaMaxLuna
+group_4_7,4,Q57,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_4_7,4,Q58,Completely false,2,ALL,C29,MiaLokiCocoMilo
+group_4_7,4,Q59,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_4_7,4,Q60,Completely false,0,ALL,C30,TomLeoNalaMia
+group_5_1,5,Q1,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_5_1,5,Q2,Completely false,2,ALL,C1,LalaLokiMaxLuna
+group_5_1,5,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_5_1,5,Q4,Completely false,0,ALL,C2,LokiLeoCocoMilo
+group_5_1,5,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_5_1,5,Q6,Completely true,4,AND,C3,LeoMaxNalaMia
+group_5_1,5,Q7,Completely false,2,MANY,Q65,MiloMiaTomLeo
+group_5_1,5,Q8,Completely false,2,AND,C4,MaxCocoLunaTom
+group_5_1,5,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_5_1,5,Q10,Completely false,0,AND,C5,CocoNalaMiloLala
+group_5_1,5,Q11,Neither completely true nor completely false,1,FEW,Q76,MiaCocoLalaTom
+group_5_1,5,Q12,Completely true,4,ALL,C6,NalaLunaMiaLoki
+group_5_1,5,Q13,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_5_1,5,Q14,Completely false,2,ALL,C7,LunaMiloTomLeo
+group_5_1,5,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_5_1,5,Q16,Completely false,0,ALL,C8,MiloMiaLalaMax
+group_5_1,5,Q17,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_5_1,5,Q18,Completely true,4,AND,C9,MiaTomLokiCoco
+group_5_1,5,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_5_1,5,Q20,Completely false,2,AND,C10,TomLalaLeoNala
+group_5_1,5,Q21,Neither completely true nor completely false,1,MANY,Q81,MaxNalaMiloTom
+group_5_1,5,Q22,Completely false,0,AND,C11,LalaLokiLeoMax
+group_5_1,5,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_5_1,5,Q24,Completely true,4,ALL,C12,LokiLeoMaxCoco
+group_5_1,5,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_5_1,5,Q26,Completely false,2,ALL,C13,LeoMaxCocoNala
+group_5_1,5,Q27,Neither completely true nor completely false,0,LESS,Q67,TomLalaLokiCoco
+group_5_1,5,Q28,Completely false,0,ALL,C14,MaxCocoNalaLuna
+group_5_1,5,Q29,Neither completely true nor completely false,4,MANY,Q78,LalaLeoCocoLuna
+group_5_1,5,Q30,Completely true,4,AND,C15,CocoNalaLunaMilo
+group_5_1,5,Q31,Completely false,0,LESS,Q87,TomLokiMaxNala
+group_5_1,5,Q32,Completely false,2,AND,C16,NalaLunaMiloMia
+group_5_1,5,Q33,Neither completely true nor completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_5_1,5,Q34,Completely false,0,AND,C17,LunaMiloMiaTom
+group_5_1,5,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_5_1,5,Q36,Completely true,4,ALL,C18,MiloMiaTomLala
+group_5_1,5,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_5_1,5,Q38,Completely false,2,ALL,C19,MiaTomLalaLoki
+group_5_1,5,Q39,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_5_1,5,Q40,Completely false,0,ALL,C20,TomLalaLokiLeo
+group_5_1,5,Q41,Neither completely true nor completely false,3,FEW,Q69,LokiMiloMaxLeo
+group_5_1,5,Q42,Completely true,4,AND,C21,LalaMaxLunaTom
+group_5_1,5,Q43,Neither completely true nor completely false,3,MANY,Q84,LunaMiaLalaLeo
+group_5_1,5,Q44,Completely false,2,AND,C22,LokiCocoMiloLala
+group_5_1,5,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_5_1,5,Q46,Completely false,0,AND,C23,LeoNalaMiaLoki
+group_5_1,5,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_5_1,5,Q48,Completely true,4,ALL,C24,MaxLunaTomLeo
+group_5_1,5,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_5_1,5,Q50,Completely false,2,ALL,C25,CocoMiloLalaMax
+group_5_1,5,Q51,Neither completely true nor completely false,2,LESS,Q80,LeoCocoLunaMia
+group_5_1,5,Q52,Completely false,0,ALL,C26,NalaMiaLokiCoco
+group_5_1,5,Q53,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_5_1,5,Q54,Completely true,4,AND,C27,LunaTomLeoNala
+group_5_1,5,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_5_1,5,Q56,Completely false,2,AND,C28,MiloLalaMaxLuna
+group_5_1,5,Q57,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_5_1,5,Q58,Completely false,0,AND,C29,MiaLokiCocoMilo
+group_5_1,5,Q59,Neither completely true nor completely false,4,FEW,U1,LalaLokiLeoNala
+group_5_1,5,Q60,Completely true,4,ALL,C30,TomLeoNalaMia
+group_5_2,5,Q1,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_5_2,5,Q2,Completely false,2,ALL,C1,LalaLokiMaxLuna
+group_5_2,5,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_5_2,5,Q4,Completely false,0,ALL,C2,LokiLeoCocoMilo
+group_5_2,5,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_5_2,5,Q6,Completely true,4,AND,C3,LeoMaxNalaMia
+group_5_2,5,Q7,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_5_2,5,Q8,Completely false,2,AND,C4,MaxCocoLunaTom
+group_5_2,5,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_5_2,5,Q10,Completely false,0,AND,C5,CocoNalaMiloLala
+group_5_2,5,Q11,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_5_2,5,Q12,Completely true,4,ALL,C6,NalaLunaMiaLoki
+group_5_2,5,Q13,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_5_2,5,Q14,Completely false,2,ALL,C7,LunaMiloTomLeo
+group_5_2,5,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_5_2,5,Q16,Completely false,0,ALL,C8,MiloMiaLalaMax
+group_5_2,5,Q17,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_5_2,5,Q18,Completely true,4,AND,C9,MiaTomLokiCoco
+group_5_2,5,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_5_2,5,Q20,Completely false,2,AND,C10,TomLalaLeoNala
+group_5_2,5,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_5_2,5,Q22,Completely false,0,AND,C11,LalaLokiLeoMax
+group_5_2,5,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_5_2,5,Q24,Completely true,4,ALL,C12,LokiLeoMaxCoco
+group_5_2,5,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_5_2,5,Q26,Completely false,2,ALL,C13,LeoMaxCocoNala
+group_5_2,5,Q27,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_5_2,5,Q28,Completely false,0,ALL,C14,MaxCocoNalaLuna
+group_5_2,5,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_5_2,5,Q30,Completely true,4,AND,C15,CocoNalaLunaMilo
+group_5_2,5,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_5_2,5,Q32,Completely false,2,AND,C16,NalaLunaMiloMia
+group_5_2,5,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_5_2,5,Q34,Completely false,0,AND,C17,LunaMiloMiaTom
+group_5_2,5,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_5_2,5,Q36,Completely true,4,ALL,C18,MiloMiaTomLala
+group_5_2,5,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_5_2,5,Q38,Completely false,2,ALL,C19,MiaTomLalaLoki
+group_5_2,5,Q39,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_5_2,5,Q40,Completely false,0,ALL,C20,TomLalaLokiLeo
+group_5_2,5,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_5_2,5,Q42,Completely true,4,AND,C21,LalaMaxLunaTom
+group_5_2,5,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_5_2,5,Q44,Completely false,2,AND,C22,LokiCocoMiloLala
+group_5_2,5,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_5_2,5,Q46,Completely false,0,AND,C23,LeoNalaMiaLoki
+group_5_2,5,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_5_2,5,Q48,Completely true,4,ALL,C24,MaxLunaTomLeo
+group_5_2,5,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_5_2,5,Q50,Completely false,2,ALL,C25,CocoMiloLalaMax
+group_5_2,5,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_5_2,5,Q52,Completely false,0,ALL,C26,NalaMiaLokiCoco
+group_5_2,5,Q53,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_5_2,5,Q54,Completely true,4,AND,C27,LunaTomLeoNala
+group_5_2,5,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_5_2,5,Q56,Completely false,2,AND,C28,MiloLalaMaxLuna
+group_5_2,5,Q57,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_5_2,5,Q58,Completely false,0,AND,C29,MiaLokiCocoMilo
+group_5_2,5,Q59,Neither completely true nor completely false,4,FEW,U1,LalaLokiLeoNala
+group_5_2,5,Q60,Completely true,4,ALL,C30,TomLeoNalaMia
+group_5_3,5,Q1,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_5_3,5,Q2,Completely false,2,ALL,C1,LalaLokiMaxLuna
+group_5_3,5,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_5_3,5,Q4,Completely false,0,ALL,C2,LokiLeoCocoMilo
+group_5_3,5,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_5_3,5,Q6,Completely true,4,AND,C3,LeoMaxNalaMia
+group_5_3,5,Q7,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_5_3,5,Q8,Neither completely true nor completely false,2,AND,C4,MaxCocoLunaTom
+group_5_3,5,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_5_3,5,Q10,Completely false,0,AND,C5,CocoNalaMiloLala
+group_5_3,5,Q11,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_5_3,5,Q12,Completely true,4,ALL,C6,NalaLunaMiaLoki
+group_5_3,5,Q13,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_5_3,5,Q14,Completely false,2,ALL,C7,LunaMiloTomLeo
+group_5_3,5,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_5_3,5,Q16,Completely false,0,ALL,C8,MiloMiaLalaMax
+group_5_3,5,Q17,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_5_3,5,Q18,Completely true,4,AND,C9,MiaTomLokiCoco
+group_5_3,5,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_5_3,5,Q20,Neither completely true nor completely false,2,AND,C10,TomLalaLeoNala
+group_5_3,5,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_5_3,5,Q22,Completely false,0,AND,C11,LalaLokiLeoMax
+group_5_3,5,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_5_3,5,Q24,Completely true,4,ALL,C12,LokiLeoMaxCoco
+group_5_3,5,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_5_3,5,Q26,Completely false,2,ALL,C13,LeoMaxCocoNala
+group_5_3,5,Q27,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_5_3,5,Q28,Completely false,0,ALL,C14,MaxCocoNalaLuna
+group_5_3,5,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_5_3,5,Q30,Completely true,4,AND,C15,CocoNalaLunaMilo
+group_5_3,5,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_5_3,5,Q32,Neither completely true nor completely false,2,AND,C16,NalaLunaMiloMia
+group_5_3,5,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_5_3,5,Q34,Completely false,0,AND,C17,LunaMiloMiaTom
+group_5_3,5,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_5_3,5,Q36,Completely true,4,ALL,C18,MiloMiaTomLala
+group_5_3,5,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_5_3,5,Q38,Completely false,2,ALL,C19,MiaTomLalaLoki
+group_5_3,5,Q39,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_5_3,5,Q40,Completely false,0,ALL,C20,TomLalaLokiLeo
+group_5_3,5,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_5_3,5,Q42,Completely true,4,AND,C21,LalaMaxLunaTom
+group_5_3,5,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_5_3,5,Q44,Neither completely true nor completely false,2,AND,C22,LokiCocoMiloLala
+group_5_3,5,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_5_3,5,Q46,Completely false,0,AND,C23,LeoNalaMiaLoki
+group_5_3,5,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_5_3,5,Q48,Completely true,4,ALL,C24,MaxLunaTomLeo
+group_5_3,5,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_5_3,5,Q50,Completely false,2,ALL,C25,CocoMiloLalaMax
+group_5_3,5,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_5_3,5,Q52,Completely false,0,ALL,C26,NalaMiaLokiCoco
+group_5_3,5,Q53,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_5_3,5,Q54,Completely true,4,AND,C27,LunaTomLeoNala
+group_5_3,5,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_5_3,5,Q56,Neither completely true nor completely false,2,AND,C28,MiloLalaMaxLuna
+group_5_3,5,Q57,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_5_3,5,Q58,Completely false,0,AND,C29,MiaLokiCocoMilo
+group_5_3,5,Q59,Neither completely true nor completely false,4,FEW,U1,LalaLokiLeoNala
+group_5_3,5,Q60,Completely true,4,ALL,C30,TomLeoNalaMia
+group_5_4,5,Q1,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_5_4,5,Q2,Completely false,2,ALL,C1,LalaLokiMaxLuna
+group_5_4,5,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_5_4,5,Q4,Completely false,0,ALL,C2,LokiLeoCocoMilo
+group_5_4,5,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_5_4,5,Q6,Completely true,4,AND,C3,LeoMaxNalaMia
+group_5_4,5,Q7,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_5_4,5,Q8,Completely false,2,AND,C4,MaxCocoLunaTom
+group_5_4,5,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_5_4,5,Q10,Completely false,0,AND,C5,CocoNalaMiloLala
+group_5_4,5,Q11,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_5_4,5,Q12,Completely true,4,ALL,C6,NalaLunaMiaLoki
+group_5_4,5,Q13,Completely true,2,FEW,Q75,MiloMaxTomMia
+group_5_4,5,Q14,Completely false,2,ALL,C7,LunaMiloTomLeo
+group_5_4,5,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_5_4,5,Q16,Completely false,0,ALL,C8,MiloMiaLalaMax
+group_5_4,5,Q17,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_5_4,5,Q18,Completely true,4,AND,C9,MiaTomLokiCoco
+group_5_4,5,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_5_4,5,Q20,Completely false,2,AND,C10,TomLalaLeoNala
+group_5_4,5,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_5_4,5,Q22,Completely false,0,AND,C11,LalaLokiLeoMax
+group_5_4,5,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_5_4,5,Q24,Completely true,4,ALL,C12,LokiLeoMaxCoco
+group_5_4,5,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_5_4,5,Q26,Completely false,2,ALL,C13,LeoMaxCocoNala
+group_5_4,5,Q27,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_5_4,5,Q28,Completely false,0,ALL,C14,MaxCocoNalaLuna
+group_5_4,5,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_5_4,5,Q30,Completely true,4,AND,C15,CocoNalaLunaMilo
+group_5_4,5,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_5_4,5,Q32,Completely false,2,AND,C16,NalaLunaMiloMia
+group_5_4,5,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_5_4,5,Q34,Completely false,0,AND,C17,LunaMiloMiaTom
+group_5_4,5,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_5_4,5,Q36,Completely true,4,ALL,C18,MiloMiaTomLala
+group_5_4,5,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_5_4,5,Q38,Completely false,2,ALL,C19,MiaTomLalaLoki
+group_5_4,5,Q39,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_5_4,5,Q40,Completely false,0,ALL,C20,TomLalaLokiLeo
+group_5_4,5,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_5_4,5,Q42,Completely true,4,AND,C21,LalaMaxLunaTom
+group_5_4,5,Q43,Completely false,3,MANY,Q84,LunaMiaLalaLeo
+group_5_4,5,Q44,Completely false,2,AND,C22,LokiCocoMiloLala
+group_5_4,5,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_5_4,5,Q46,Completely false,0,AND,C23,LeoNalaMiaLoki
+group_5_4,5,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_5_4,5,Q48,Completely true,4,ALL,C24,MaxLunaTomLeo
+group_5_4,5,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_5_4,5,Q50,Completely false,2,ALL,C25,CocoMiloLalaMax
+group_5_4,5,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_5_4,5,Q52,Completely false,0,ALL,C26,NalaMiaLokiCoco
+group_5_4,5,Q53,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_5_4,5,Q54,Completely true,4,AND,C27,LunaTomLeoNala
+group_5_4,5,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_5_4,5,Q56,Completely false,2,AND,C28,MiloLalaMaxLuna
+group_5_4,5,Q57,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_5_4,5,Q58,Completely false,0,AND,C29,MiaLokiCocoMilo
+group_5_4,5,Q59,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_5_4,5,Q60,Completely true,4,ALL,C30,TomLeoNalaMia
+group_5_5,5,Q1,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_5_5,5,Q2,Completely false,2,ALL,C1,LalaLokiMaxLuna
+group_5_5,5,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_5_5,5,Q4,Completely false,0,ALL,C2,LokiLeoCocoMilo
+group_5_5,5,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_5_5,5,Q6,Completely true,4,AND,C3,LeoMaxNalaMia
+group_5_5,5,Q7,Completely false,2,MANY,Q65,MiloMiaTomLeo
+group_5_5,5,Q8,Completely false,2,AND,C4,MaxCocoLunaTom
+group_5_5,5,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_5_5,5,Q10,Completely false,0,AND,C5,CocoNalaMiloLala
+group_5_5,5,Q11,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_5_5,5,Q12,Completely true,4,ALL,C6,NalaLunaMiaLoki
+group_5_5,5,Q13,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_5_5,5,Q14,Completely false,2,ALL,C7,LunaMiloTomLeo
+group_5_5,5,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_5_5,5,Q16,Completely false,0,ALL,C8,MiloMiaLalaMax
+group_5_5,5,Q17,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_5_5,5,Q18,Completely true,4,AND,C9,MiaTomLokiCoco
+group_5_5,5,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_5_5,5,Q20,Neither completely true nor completely false,2,AND,C10,TomLalaLeoNala
+group_5_5,5,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_5_5,5,Q22,Completely false,0,AND,C11,LalaLokiLeoMax
+group_5_5,5,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_5_5,5,Q24,Completely true,4,ALL,C12,LokiLeoMaxCoco
+group_5_5,5,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_5_5,5,Q26,Completely false,2,ALL,C13,LeoMaxCocoNala
+group_5_5,5,Q27,Completely false,0,LESS,Q67,TomLalaLokiCoco
+group_5_5,5,Q28,Completely false,0,ALL,C14,MaxCocoNalaLuna
+group_5_5,5,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_5_5,5,Q30,Completely true,4,AND,C15,CocoNalaLunaMilo
+group_5_5,5,Q31,Completely false,0,LESS,Q87,TomLokiMaxNala
+group_5_5,5,Q32,Neither completely true nor completely false,2,AND,C16,NalaLunaMiloMia
+group_5_5,5,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_5_5,5,Q34,Completely false,0,AND,C17,LunaMiloMiaTom
+group_5_5,5,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_5_5,5,Q36,Completely true,4,ALL,C18,MiloMiaTomLala
+group_5_5,5,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_5_5,5,Q38,Completely false,2,ALL,C19,MiaTomLalaLoki
+group_5_5,5,Q39,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_5_5,5,Q40,Completely false,0,ALL,C20,TomLalaLokiLeo
+group_5_5,5,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_5_5,5,Q42,Completely true,4,AND,C21,LalaMaxLunaTom
+group_5_5,5,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_5_5,5,Q44,Neither completely true nor completely false,2,AND,C22,LokiCocoMiloLala
+group_5_5,5,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_5_5,5,Q46,Completely false,0,AND,C23,LeoNalaMiaLoki
+group_5_5,5,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_5_5,5,Q48,Completely true,4,ALL,C24,MaxLunaTomLeo
+group_5_5,5,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_5_5,5,Q50,Completely false,2,ALL,C25,CocoMiloLalaMax
+group_5_5,5,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_5_5,5,Q52,Completely false,0,ALL,C26,NalaMiaLokiCoco
+group_5_5,5,Q53,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_5_5,5,Q54,Completely true,4,AND,C27,LunaTomLeoNala
+group_5_5,5,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_5_5,5,Q56,Neither completely true nor completely false,2,AND,C28,MiloLalaMaxLuna
+group_5_5,5,Q57,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_5_5,5,Q58,Completely false,0,AND,C29,MiaLokiCocoMilo
+group_5_5,5,Q59,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_5_5,5,Q60,Completely true,4,ALL,C30,TomLeoNalaMia
+group_5_6,5,Q1,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_5_6,5,Q2,Completely false,2,ALL,C1,LalaLokiMaxLuna
+group_5_6,5,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_5_6,5,Q4,Completely false,0,ALL,C2,LokiLeoCocoMilo
+group_5_6,5,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_5_6,5,Q6,Completely true,4,AND,C3,LeoMaxNalaMia
+group_5_6,5,Q7,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_5_6,5,Q8,Completely false,2,AND,C4,MaxCocoLunaTom
+group_5_6,5,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_5_6,5,Q10,Completely false,0,AND,C5,CocoNalaMiloLala
+group_5_6,5,Q11,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_5_6,5,Q12,Completely true,4,ALL,C6,NalaLunaMiaLoki
+group_5_6,5,Q13,Completely true,2,FEW,Q75,MiloMaxTomMia
+group_5_6,5,Q14,Completely false,2,ALL,C7,LunaMiloTomLeo
+group_5_6,5,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_5_6,5,Q16,Completely false,0,ALL,C8,MiloMiaLalaMax
+group_5_6,5,Q17,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_5_6,5,Q18,Completely true,4,AND,C9,MiaTomLokiCoco
+group_5_6,5,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_5_6,5,Q20,Completely false,2,AND,C10,TomLalaLeoNala
+group_5_6,5,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_5_6,5,Q22,Completely false,0,AND,C11,LalaLokiLeoMax
+group_5_6,5,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_5_6,5,Q24,Completely true,4,ALL,C12,LokiLeoMaxCoco
+group_5_6,5,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_5_6,5,Q26,Completely false,2,ALL,C13,LeoMaxCocoNala
+group_5_6,5,Q27,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_5_6,5,Q28,Completely false,0,ALL,C14,MaxCocoNalaLuna
+group_5_6,5,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_5_6,5,Q30,Completely true,4,AND,C15,CocoNalaLunaMilo
+group_5_6,5,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_5_6,5,Q32,Completely false,2,AND,C16,NalaLunaMiloMia
+group_5_6,5,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_5_6,5,Q34,Completely false,0,AND,C17,LunaMiloMiaTom
+group_5_6,5,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_5_6,5,Q36,Completely true,4,ALL,C18,MiloMiaTomLala
+group_5_6,5,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_5_6,5,Q38,Completely false,2,ALL,C19,MiaTomLalaLoki
+group_5_6,5,Q39,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_5_6,5,Q40,Completely false,0,ALL,C20,TomLalaLokiLeo
+group_5_6,5,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_5_6,5,Q42,Completely true,4,AND,C21,LalaMaxLunaTom
+group_5_6,5,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_5_6,5,Q44,Completely false,2,AND,C22,LokiCocoMiloLala
+group_5_6,5,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_5_6,5,Q46,Completely false,0,AND,C23,LeoNalaMiaLoki
+group_5_6,5,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_5_6,5,Q48,Completely true,4,ALL,C24,MaxLunaTomLeo
+group_5_6,5,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_5_6,5,Q50,Completely false,2,ALL,C25,CocoMiloLalaMax
+group_5_6,5,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_5_6,5,Q52,Completely false,0,ALL,C26,NalaMiaLokiCoco
+group_5_6,5,Q53,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_5_6,5,Q54,Completely true,4,AND,C27,LunaTomLeoNala
+group_5_6,5,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_5_6,5,Q56,Completely false,2,AND,C28,MiloLalaMaxLuna
+group_5_6,5,Q57,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_5_6,5,Q58,Completely false,0,AND,C29,MiaLokiCocoMilo
+group_5_6,5,Q59,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_5_6,5,Q60,Completely true,4,ALL,C30,TomLeoNalaMia
+group_5_7,5,Q1,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_5_7,5,Q2,Completely false,2,ALL,C1,LalaLokiMaxLuna
+group_5_7,5,Q3,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_5_7,5,Q4,Completely false,0,ALL,C2,LokiLeoCocoMilo
+group_5_7,5,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_5_7,5,Q6,Completely true,4,AND,C3,LeoMaxNalaMia
+group_5_7,5,Q7,Completely false,2,MANY,Q65,MiloMiaTomLeo
+group_5_7,5,Q8,Neither completely true nor completely false,2,AND,C4,MaxCocoLunaTom
+group_5_7,5,Q9,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_5_7,5,Q10,Completely false,0,AND,C5,CocoNalaMiloLala
+group_5_7,5,Q11,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_5_7,5,Q12,Completely true,4,ALL,C6,NalaLunaMiaLoki
+group_5_7,5,Q13,Completely false,2,FEW,Q75,MiloMaxTomMia
+group_5_7,5,Q14,Completely false,2,ALL,C7,LunaMiloTomLeo
+group_5_7,5,Q15,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_5_7,5,Q16,Completely false,0,ALL,C8,MiloMiaLalaMax
+group_5_7,5,Q17,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_5_7,5,Q18,Completely true,4,AND,C9,MiaTomLokiCoco
+group_5_7,5,Q19,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_5_7,5,Q20,Neither completely true nor completely false,2,AND,C10,TomLalaLeoNala
+group_5_7,5,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_5_7,5,Q22,Completely false,0,AND,C11,LalaLokiLeoMax
+group_5_7,5,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_5_7,5,Q24,Completely true,4,ALL,C12,LokiLeoMaxCoco
+group_5_7,5,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_5_7,5,Q26,Completely false,2,ALL,C13,LeoMaxCocoNala
+group_5_7,5,Q27,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_5_7,5,Q28,Completely false,0,ALL,C14,MaxCocoNalaLuna
+group_5_7,5,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_5_7,5,Q30,Completely true,4,AND,C15,CocoNalaLunaMilo
+group_5_7,5,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_5_7,5,Q32,Completely false,2,AND,C16,NalaLunaMiloMia
+group_5_7,5,Q33,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_5_7,5,Q34,Completely false,0,AND,C17,LunaMiloMiaTom
+group_5_7,5,Q35,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_5_7,5,Q36,Completely true,4,ALL,C18,MiloMiaTomLala
+group_5_7,5,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_5_7,5,Q38,Completely false,2,ALL,C19,MiaTomLalaLoki
+group_5_7,5,Q39,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_5_7,5,Q40,Completely false,0,ALL,C20,TomLalaLokiLeo
+group_5_7,5,Q41,Completely false,3,FEW,Q69,LokiMiloMaxLeo
+group_5_7,5,Q42,Completely true,4,AND,C21,LalaMaxLunaTom
+group_5_7,5,Q43,Completely false,3,MANY,Q84,LunaMiaLalaLeo
+group_5_7,5,Q44,Neither completely true nor completely false,2,AND,C22,LokiCocoMiloLala
+group_5_7,5,Q45,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_5_7,5,Q46,Completely false,0,AND,C23,LeoNalaMiaLoki
+group_5_7,5,Q47,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_5_7,5,Q48,Completely true,4,ALL,C24,MaxLunaTomLeo
+group_5_7,5,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_5_7,5,Q50,Completely false,2,ALL,C25,CocoMiloLalaMax
+group_5_7,5,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_5_7,5,Q52,Completely false,0,ALL,C26,NalaMiaLokiCoco
+group_5_7,5,Q53,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_5_7,5,Q54,Completely true,4,AND,C27,LunaTomLeoNala
+group_5_7,5,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_5_7,5,Q56,Completely false,2,AND,C28,MiloLalaMaxLuna
+group_5_7,5,Q57,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_5_7,5,Q58,Completely false,0,AND,C29,MiaLokiCocoMilo
+group_5_7,5,Q59,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_5_7,5,Q60,Completely true,4,ALL,C30,TomLeoNalaMia
+group_6_1,6,Q1,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_6_1,6,Q2,Completely false,0,ALL,C1,LalaLokiMaxLuna
+group_6_1,6,Q3,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_6_1,6,Q4,Completely true,4,AND,C2,LokiLeoCocoMilo
+group_6_1,6,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_6_1,6,Q6,Completely false,2,AND,C3,LeoMaxNalaMia
+group_6_1,6,Q7,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_6_1,6,Q8,Completely false,0,AND,C4,MaxCocoLunaTom
+group_6_1,6,Q9,Neither completely true nor completely false,1,FEW,Q76,MiaCocoLalaTom
+group_6_1,6,Q10,Completely true,4,ALL,C5,CocoNalaMiloLala
+group_6_1,6,Q11,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_6_1,6,Q12,Completely false,2,ALL,C6,NalaLunaMiaLoki
+group_6_1,6,Q13,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_6_1,6,Q14,Completely false,0,ALL,C7,LunaMiloTomLeo
+group_6_1,6,Q15,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_6_1,6,Q16,Completely true,4,AND,C8,MiloMiaLalaMax
+group_6_1,6,Q17,Neither completely true nor completely false,0,LESS,Q67,TomLalaLokiCoco
+group_6_1,6,Q18,Completely false,2,AND,C9,MiaTomLokiCoco
+group_6_1,6,Q19,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_6_1,6,Q20,Completely false,0,AND,C10,TomLalaLeoNala
+group_6_1,6,Q21,Neither completely true nor completely false,1,MANY,Q81,MaxNalaMiloTom
+group_6_1,6,Q22,Completely true,4,ALL,C11,LalaLokiLeoMax
+group_6_1,6,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_6_1,6,Q24,Neither completely true nor completely false,2,ALL,C12,LokiLeoMaxCoco
+group_6_1,6,Q25,Completely true,3,LESS,Q74,LunaLeoMiaMilo
+group_6_1,6,Q26,Completely false,0,ALL,C13,LeoMaxCocoNala
+group_6_1,6,Q27,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_6_1,6,Q28,Completely true,4,AND,C14,MaxCocoNalaLuna
+group_6_1,6,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_6_1,6,Q30,Neither completely true nor completely false,2,AND,C15,CocoNalaLunaMilo
+group_6_1,6,Q31,Neither completely true nor completely false,0,LESS,Q87,TomLokiMaxNala
+group_6_1,6,Q32,Completely false,0,AND,C16,NalaLunaMiloMia
+group_6_1,6,Q33,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_6_1,6,Q34,Completely true,4,ALL,C17,LunaMiloMiaTom
+group_6_1,6,Q35,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_6_1,6,Q36,Completely false,2,ALL,C18,MiloMiaTomLala
+group_6_1,6,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_6_1,6,Q38,Completely false,0,ALL,C19,MiaTomLalaLoki
+group_6_1,6,Q39,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_6_1,6,Q40,Completely true,4,AND,C20,TomLalaLokiLeo
+group_6_1,6,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_6_1,6,Q42,Neither completely true nor completely false,2,AND,C21,LalaMaxLunaTom
+group_6_1,6,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_6_1,6,Q44,Completely false,0,AND,C22,LokiCocoMiloLala
+group_6_1,6,Q45,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_6_1,6,Q46,Completely true,4,ALL,C23,LeoNalaMiaLoki
+group_6_1,6,Q47,Neither completely true nor completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_6_1,6,Q48,Neither completely true nor completely false,2,ALL,C24,MaxLunaTomLeo
+group_6_1,6,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_6_1,6,Q50,Completely false,0,ALL,C25,CocoMiloLalaMax
+group_6_1,6,Q51,Neither completely true nor completely false,2,LESS,Q80,LeoCocoLunaMia
+group_6_1,6,Q52,Completely true,4,AND,C26,NalaMiaLokiCoco
+group_6_1,6,Q53,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_6_1,6,Q54,Neither completely true nor completely false,2,AND,C27,LunaTomLeoNala
+group_6_1,6,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_6_1,6,Q56,Completely false,0,AND,C28,MiloLalaMaxLuna
+group_6_1,6,Q57,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_6_1,6,Q58,Completely true,4,ALL,C29,MiaLokiCocoMilo
+group_6_1,6,Q59,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_6_1,6,Q60,Neither completely true nor completely false,2,ALL,C30,TomLeoNalaMia
+group_6_2,6,Q1,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_6_2,6,Q2,Completely false,0,ALL,C1,LalaLokiMaxLuna
+group_6_2,6,Q3,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_6_2,6,Q4,Completely true,4,AND,C2,LokiLeoCocoMilo
+group_6_2,6,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_6_2,6,Q6,Neither completely true nor completely false,2,AND,C3,LeoMaxNalaMia
+group_6_2,6,Q7,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_6_2,6,Q8,Completely false,0,AND,C4,MaxCocoLunaTom
+group_6_2,6,Q9,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_6_2,6,Q10,Completely true,4,ALL,C5,CocoNalaMiloLala
+group_6_2,6,Q11,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_6_2,6,Q12,Completely false,2,ALL,C6,NalaLunaMiaLoki
+group_6_2,6,Q13,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_6_2,6,Q14,Completely false,0,ALL,C7,LunaMiloTomLeo
+group_6_2,6,Q15,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_6_2,6,Q16,Completely true,4,AND,C8,MiloMiaLalaMax
+group_6_2,6,Q17,Completely false,0,LESS,Q67,TomLalaLokiCoco
+group_6_2,6,Q18,Neither completely true nor completely false,2,AND,C9,MiaTomLokiCoco
+group_6_2,6,Q19,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_6_2,6,Q20,Completely false,0,AND,C10,TomLalaLeoNala
+group_6_2,6,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_6_2,6,Q22,Completely true,4,ALL,C11,LalaLokiLeoMax
+group_6_2,6,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_6_2,6,Q24,Completely false,2,ALL,C12,LokiLeoMaxCoco
+group_6_2,6,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_6_2,6,Q26,Completely false,0,ALL,C13,LeoMaxCocoNala
+group_6_2,6,Q27,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_6_2,6,Q28,Completely true,4,AND,C14,MaxCocoNalaLuna
+group_6_2,6,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_6_2,6,Q30,Neither completely true nor completely false,2,AND,C15,CocoNalaLunaMilo
+group_6_2,6,Q31,Neither completely true nor completely false,0,LESS,Q87,TomLokiMaxNala
+group_6_2,6,Q32,Completely false,0,AND,C16,NalaLunaMiloMia
+group_6_2,6,Q33,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_6_2,6,Q34,Completely true,4,ALL,C17,LunaMiloMiaTom
+group_6_2,6,Q35,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_6_2,6,Q36,Completely false,2,ALL,C18,MiloMiaTomLala
+group_6_2,6,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_6_2,6,Q38,Completely false,0,ALL,C19,MiaTomLalaLoki
+group_6_2,6,Q39,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_6_2,6,Q40,Completely true,4,AND,C20,TomLalaLokiLeo
+group_6_2,6,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_6_2,6,Q42,Neither completely true nor completely false,2,AND,C21,LalaMaxLunaTom
+group_6_2,6,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_6_2,6,Q44,Completely false,0,AND,C22,LokiCocoMiloLala
+group_6_2,6,Q45,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_6_2,6,Q46,Completely true,4,ALL,C23,LeoNalaMiaLoki
+group_6_2,6,Q47,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_6_2,6,Q48,Completely false,2,ALL,C24,MaxLunaTomLeo
+group_6_2,6,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_6_2,6,Q50,Completely false,0,ALL,C25,CocoMiloLalaMax
+group_6_2,6,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_6_2,6,Q52,Completely true,4,AND,C26,NalaMiaLokiCoco
+group_6_2,6,Q53,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_6_2,6,Q54,Neither completely true nor completely false,2,AND,C27,LunaTomLeoNala
+group_6_2,6,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_6_2,6,Q56,Completely false,0,AND,C28,MiloLalaMaxLuna
+group_6_2,6,Q57,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_6_2,6,Q58,Completely true,4,ALL,C29,MiaLokiCocoMilo
+group_6_2,6,Q59,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_6_2,6,Q60,Completely false,2,ALL,C30,TomLeoNalaMia
+group_6_3,6,Q1,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_6_3,6,Q2,Completely false,0,ALL,C1,LalaLokiMaxLuna
+group_6_3,6,Q3,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_6_3,6,Q4,Completely true,4,AND,C2,LokiLeoCocoMilo
+group_6_3,6,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_6_3,6,Q6,Neither completely true nor completely false,2,AND,C3,LeoMaxNalaMia
+group_6_3,6,Q7,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_6_3,6,Q8,Completely false,0,AND,C4,MaxCocoLunaTom
+group_6_3,6,Q9,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_6_3,6,Q10,Completely true,4,ALL,C5,CocoNalaMiloLala
+group_6_3,6,Q11,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_6_3,6,Q12,Completely false,2,ALL,C6,NalaLunaMiaLoki
+group_6_3,6,Q13,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_6_3,6,Q14,Completely false,0,ALL,C7,LunaMiloTomLeo
+group_6_3,6,Q15,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_6_3,6,Q16,Completely true,4,AND,C8,MiloMiaLalaMax
+group_6_3,6,Q17,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_6_3,6,Q18,Neither completely true nor completely false,2,AND,C9,MiaTomLokiCoco
+group_6_3,6,Q19,Completely true,2,FEW,Q75,MiloMaxTomMia
+group_6_3,6,Q20,Completely false,0,AND,C10,TomLalaLeoNala
+group_6_3,6,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_6_3,6,Q22,Completely true,4,ALL,C11,LalaLokiLeoMax
+group_6_3,6,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_6_3,6,Q24,Completely false,2,ALL,C12,LokiLeoMaxCoco
+group_6_3,6,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_6_3,6,Q26,Completely false,0,ALL,C13,LeoMaxCocoNala
+group_6_3,6,Q27,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_6_3,6,Q28,Completely true,4,AND,C14,MaxCocoNalaLuna
+group_6_3,6,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_6_3,6,Q30,Neither completely true nor completely false,2,AND,C15,CocoNalaLunaMilo
+group_6_3,6,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_6_3,6,Q32,Completely false,0,AND,C16,NalaLunaMiloMia
+group_6_3,6,Q33,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_6_3,6,Q34,Completely true,4,ALL,C17,LunaMiloMiaTom
+group_6_3,6,Q35,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_6_3,6,Q36,Completely false,2,ALL,C18,MiloMiaTomLala
+group_6_3,6,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_6_3,6,Q38,Completely false,0,ALL,C19,MiaTomLalaLoki
+group_6_3,6,Q39,Neither completely true nor completely false,2,MORE,Q70,LeoMiaCocoMax
+group_6_3,6,Q40,Completely true,4,AND,C20,TomLalaLokiLeo
+group_6_3,6,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_6_3,6,Q42,Neither completely true nor completely false,2,AND,C21,LalaMaxLunaTom
+group_6_3,6,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_6_3,6,Q44,Completely false,0,AND,C22,LokiCocoMiloLala
+group_6_3,6,Q45,Neither completely true nor completely false,2,MORE,Q85,MiloTomLokiMax
+group_6_3,6,Q46,Completely true,4,ALL,C23,LeoNalaMiaLoki
+group_6_3,6,Q47,Neither completely true nor completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_6_3,6,Q48,Completely false,2,ALL,C24,MaxLunaTomLeo
+group_6_3,6,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_6_3,6,Q50,Completely false,0,ALL,C25,CocoMiloLalaMax
+group_6_3,6,Q51,Neither completely true nor completely false,2,LESS,Q80,LeoCocoLunaMia
+group_6_3,6,Q52,Completely true,4,AND,C26,NalaMiaLokiCoco
+group_6_3,6,Q53,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_6_3,6,Q54,Neither completely true nor completely false,2,AND,C27,LunaTomLeoNala
+group_6_3,6,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_6_3,6,Q56,Completely false,0,AND,C28,MiloLalaMaxLuna
+group_6_3,6,Q57,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_6_3,6,Q58,Completely true,4,ALL,C29,MiaLokiCocoMilo
+group_6_3,6,Q59,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_6_3,6,Q60,Completely false,2,ALL,C30,TomLeoNalaMia
+group_6_4,6,Q1,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_6_4,6,Q2,Completely false,0,ALL,C1,LalaLokiMaxLuna
+group_6_4,6,Q3,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_6_4,6,Q4,Completely true,4,AND,C2,LokiLeoCocoMilo
+group_6_4,6,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_6_4,6,Q6,Neither completely true nor completely false,2,AND,C3,LeoMaxNalaMia
+group_6_4,6,Q7,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_6_4,6,Q8,Completely false,0,AND,C4,MaxCocoLunaTom
+group_6_4,6,Q9,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_6_4,6,Q10,Completely true,4,ALL,C5,CocoNalaMiloLala
+group_6_4,6,Q11,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_6_4,6,Q12,Completely false,2,ALL,C6,NalaLunaMiaLoki
+group_6_4,6,Q13,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_6_4,6,Q14,Completely false,0,ALL,C7,LunaMiloTomLeo
+group_6_4,6,Q15,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_6_4,6,Q16,Completely true,4,AND,C8,MiloMiaLalaMax
+group_6_4,6,Q17,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_6_4,6,Q18,Neither completely true nor completely false,2,AND,C9,MiaTomLokiCoco
+group_6_4,6,Q19,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_6_4,6,Q20,Completely false,0,AND,C10,TomLalaLeoNala
+group_6_4,6,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_6_4,6,Q22,Completely true,4,ALL,C11,LalaLokiLeoMax
+group_6_4,6,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_6_4,6,Q24,Completely false,2,ALL,C12,LokiLeoMaxCoco
+group_6_4,6,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_6_4,6,Q26,Completely false,0,ALL,C13,LeoMaxCocoNala
+group_6_4,6,Q27,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_6_4,6,Q28,Completely true,4,AND,C14,MaxCocoNalaLuna
+group_6_4,6,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_6_4,6,Q30,Neither completely true nor completely false,2,AND,C15,CocoNalaLunaMilo
+group_6_4,6,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_6_4,6,Q32,Completely false,0,AND,C16,NalaLunaMiloMia
+group_6_4,6,Q33,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_6_4,6,Q34,Completely true,4,ALL,C17,LunaMiloMiaTom
+group_6_4,6,Q35,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_6_4,6,Q36,Completely false,2,ALL,C18,MiloMiaTomLala
+group_6_4,6,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_6_4,6,Q38,Completely false,0,ALL,C19,MiaTomLalaLoki
+group_6_4,6,Q39,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_6_4,6,Q40,Completely true,4,AND,C20,TomLalaLokiLeo
+group_6_4,6,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_6_4,6,Q42,Neither completely true nor completely false,2,AND,C21,LalaMaxLunaTom
+group_6_4,6,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_6_4,6,Q44,Completely false,0,AND,C22,LokiCocoMiloLala
+group_6_4,6,Q45,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_6_4,6,Q46,Completely true,4,ALL,C23,LeoNalaMiaLoki
+group_6_4,6,Q47,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_6_4,6,Q48,Completely false,2,ALL,C24,MaxLunaTomLeo
+group_6_4,6,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_6_4,6,Q50,Completely false,0,ALL,C25,CocoMiloLalaMax
+group_6_4,6,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_6_4,6,Q52,Completely true,4,AND,C26,NalaMiaLokiCoco
+group_6_4,6,Q53,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_6_4,6,Q54,Neither completely true nor completely false,2,AND,C27,LunaTomLeoNala
+group_6_4,6,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_6_4,6,Q56,Completely false,0,AND,C28,MiloLalaMaxLuna
+group_6_4,6,Q57,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_6_4,6,Q58,Completely true,4,ALL,C29,MiaLokiCocoMilo
+group_6_4,6,Q59,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_6_4,6,Q60,Completely false,2,ALL,C30,TomLeoNalaMia
+group_6_5,6,Q1,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_6_5,6,Q2,Completely false,0,ALL,C1,LalaLokiMaxLuna
+group_6_5,6,Q3,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_6_5,6,Q4,Completely true,4,AND,C2,LokiLeoCocoMilo
+group_6_5,6,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_6_5,6,Q6,Completely false,2,AND,C3,LeoMaxNalaMia
+group_6_5,6,Q7,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_6_5,6,Q8,Completely false,0,AND,C4,MaxCocoLunaTom
+group_6_5,6,Q9,Neither completely true nor completely false,1,FEW,Q76,MiaCocoLalaTom
+group_6_5,6,Q10,Completely true,4,ALL,C5,CocoNalaMiloLala
+group_6_5,6,Q11,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_6_5,6,Q12,Completely false,2,ALL,C6,NalaLunaMiaLoki
+group_6_5,6,Q13,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_6_5,6,Q14,Completely false,0,ALL,C7,LunaMiloTomLeo
+group_6_5,6,Q15,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_6_5,6,Q16,Completely true,4,AND,C8,MiloMiaLalaMax
+group_6_5,6,Q17,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_6_5,6,Q18,Neither completely true nor completely false,2,AND,C9,MiaTomLokiCoco
+group_6_5,6,Q19,Completely true,2,FEW,Q75,MiloMaxTomMia
+group_6_5,6,Q20,Completely false,0,AND,C10,TomLalaLeoNala
+group_6_5,6,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_6_5,6,Q22,Completely true,4,ALL,C11,LalaLokiLeoMax
+group_6_5,6,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_6_5,6,Q24,Completely false,2,ALL,C12,LokiLeoMaxCoco
+group_6_5,6,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_6_5,6,Q26,Completely false,0,ALL,C13,LeoMaxCocoNala
+group_6_5,6,Q27,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_6_5,6,Q28,Completely true,4,AND,C14,MaxCocoNalaLuna
+group_6_5,6,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_6_5,6,Q30,Neither completely true nor completely false,2,AND,C15,CocoNalaLunaMilo
+group_6_5,6,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_6_5,6,Q32,Completely false,0,AND,C16,NalaLunaMiloMia
+group_6_5,6,Q33,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_6_5,6,Q34,Completely true,4,ALL,C17,LunaMiloMiaTom
+group_6_5,6,Q35,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_6_5,6,Q36,Completely false,2,ALL,C18,MiloMiaTomLala
+group_6_5,6,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_6_5,6,Q38,Completely false,0,ALL,C19,MiaTomLalaLoki
+group_6_5,6,Q39,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_6_5,6,Q40,Completely true,4,AND,C20,TomLalaLokiLeo
+group_6_5,6,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_6_5,6,Q42,Neither completely true nor completely false,2,AND,C21,LalaMaxLunaTom
+group_6_5,6,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_6_5,6,Q44,Completely false,0,AND,C22,LokiCocoMiloLala
+group_6_5,6,Q45,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_6_5,6,Q46,Completely true,4,ALL,C23,LeoNalaMiaLoki
+group_6_5,6,Q47,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_6_5,6,Q48,Completely false,2,ALL,C24,MaxLunaTomLeo
+group_6_5,6,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_6_5,6,Q50,Completely false,0,ALL,C25,CocoMiloLalaMax
+group_6_5,6,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_6_5,6,Q52,Completely true,4,AND,C26,NalaMiaLokiCoco
+group_6_5,6,Q53,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_6_5,6,Q54,Neither completely true nor completely false,2,AND,C27,LunaTomLeoNala
+group_6_5,6,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_6_5,6,Q56,Completely false,0,AND,C28,MiloLalaMaxLuna
+group_6_5,6,Q57,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_6_5,6,Q58,Completely true,4,ALL,C29,MiaLokiCocoMilo
+group_6_5,6,Q59,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_6_5,6,Q60,Completely false,2,ALL,C30,TomLeoNalaMia
+group_6_6,6,Q1,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_6_6,6,Q2,Completely false,0,ALL,C1,LalaLokiMaxLuna
+group_6_6,6,Q3,Completely false,0,MORE,Q72,CocoLalaLunaNala
+group_6_6,6,Q4,Completely true,4,AND,C2,LokiLeoCocoMilo
+group_6_6,6,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_6_6,6,Q6,Neither completely true nor completely false,2,AND,C3,LeoMaxNalaMia
+group_6_6,6,Q7,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_6_6,6,Q8,Completely false,0,AND,C4,MaxCocoLunaTom
+group_6_6,6,Q9,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_6_6,6,Q10,Completely true,4,ALL,C5,CocoNalaMiloLala
+group_6_6,6,Q11,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_6_6,6,Q12,Completely false,2,ALL,C6,NalaLunaMiaLoki
+group_6_6,6,Q13,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_6_6,6,Q14,Completely false,0,ALL,C7,LunaMiloTomLeo
+group_6_6,6,Q15,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_6_6,6,Q16,Completely true,4,AND,C8,MiloMiaLalaMax
+group_6_6,6,Q17,Neither completely true nor completely false,0,LESS,Q67,TomLalaLokiCoco
+group_6_6,6,Q18,Completely false,2,AND,C9,MiaTomLokiCoco
+group_6_6,6,Q19,Completely true,2,FEW,Q75,MiloMaxTomMia
+group_6_6,6,Q20,Completely false,0,AND,C10,TomLalaLeoNala
+group_6_6,6,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_6_6,6,Q22,Completely true,4,ALL,C11,LalaLokiLeoMax
+group_6_6,6,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_6_6,6,Q24,Completely false,2,ALL,C12,LokiLeoMaxCoco
+group_6_6,6,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_6_6,6,Q26,Completely false,0,ALL,C13,LeoMaxCocoNala
+group_6_6,6,Q27,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_6_6,6,Q28,Completely true,4,AND,C14,MaxCocoNalaLuna
+group_6_6,6,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_6_6,6,Q30,Completely false,2,AND,C15,CocoNalaLunaMilo
+group_6_6,6,Q31,Neither completely true nor completely false,0,LESS,Q87,TomLokiMaxNala
+group_6_6,6,Q32,Completely false,0,AND,C16,NalaLunaMiloMia
+group_6_6,6,Q33,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_6_6,6,Q34,Completely true,4,ALL,C17,LunaMiloMiaTom
+group_6_6,6,Q35,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_6_6,6,Q36,Completely false,2,ALL,C18,MiloMiaTomLala
+group_6_6,6,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_6_6,6,Q38,Completely false,0,ALL,C19,MiaTomLalaLoki
+group_6_6,6,Q39,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_6_6,6,Q40,Completely true,4,AND,C20,TomLalaLokiLeo
+group_6_6,6,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_6_6,6,Q42,Completely false,2,AND,C21,LalaMaxLunaTom
+group_6_6,6,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_6_6,6,Q44,Completely false,0,AND,C22,LokiCocoMiloLala
+group_6_6,6,Q45,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_6_6,6,Q46,Completely true,4,ALL,C23,LeoNalaMiaLoki
+group_6_6,6,Q47,Neither completely true nor completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_6_6,6,Q48,Completely false,2,ALL,C24,MaxLunaTomLeo
+group_6_6,6,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_6_6,6,Q50,Completely false,0,ALL,C25,CocoMiloLalaMax
+group_6_6,6,Q51,Neither completely true nor completely false,2,LESS,Q80,LeoCocoLunaMia
+group_6_6,6,Q52,Completely true,4,AND,C26,NalaMiaLokiCoco
+group_6_6,6,Q53,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_6_6,6,Q54,Completely false,2,AND,C27,LunaTomLeoNala
+group_6_6,6,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_6_6,6,Q56,Completely false,0,AND,C28,MiloLalaMaxLuna
+group_6_6,6,Q57,Completely true,4,FEW,U1,LalaLokiLeoNala
+group_6_6,6,Q58,Completely true,4,ALL,C29,MiaLokiCocoMilo
+group_6_6,6,Q59,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_6_6,6,Q60,Completely false,2,ALL,C30,TomLeoNalaMia
+group_6_7,6,Q1,Completely false,4,LESS,Q68,LalaLunaLeoLoki
+group_6_7,6,Q2,Completely false,0,ALL,C1,LalaLokiMaxLuna
+group_6_7,6,Q3,Completely true,0,MORE,Q72,CocoLalaLunaNala
+group_6_7,6,Q4,Completely true,4,AND,C2,LokiLeoCocoMilo
+group_6_7,6,Q5,Completely false,4,LESS,Q73,NalaLokiMiloLuna
+group_6_7,6,Q6,Completely false,2,AND,C3,LeoMaxNalaMia
+group_6_7,6,Q7,Completely true,1,LESS,T1,MiaLalaLeoCoco
+group_6_7,6,Q8,Completely false,0,AND,C4,MaxCocoLunaTom
+group_6_7,6,Q9,Completely false,1,FEW,Q76,MiaCocoLalaTom
+group_6_7,6,Q10,Completely true,4,ALL,C5,CocoNalaMiloLala
+group_6_7,6,Q11,Completely true,3,MORE,T2,LunaMiloMiaLoki
+group_6_7,6,Q12,Completely false,2,ALL,C6,NalaLunaMiaLoki
+group_6_7,6,Q13,Completely false,1,MORE,Q71,MaxTomNalaCoco
+group_6_7,6,Q14,Completely false,0,ALL,C7,LunaMiloTomLeo
+group_6_7,6,Q15,Neither completely true nor completely false,2,MANY,Q65,MiloMiaTomLeo
+group_6_7,6,Q16,Completely true,4,AND,C8,MiloMiaLalaMax
+group_6_7,6,Q17,Completely true,0,LESS,Q67,TomLalaLokiCoco
+group_6_7,6,Q18,Completely false,2,AND,C9,MiaTomLokiCoco
+group_6_7,6,Q19,Neither completely true nor completely false,2,FEW,Q75,MiloMaxTomMia
+group_6_7,6,Q20,Completely false,0,AND,C10,TomLalaLeoNala
+group_6_7,6,Q21,Completely false,1,MANY,Q81,MaxNalaMiloTom
+group_6_7,6,Q22,Completely true,4,ALL,C11,LalaLokiLeoMax
+group_6_7,6,Q23,Completely true,3,MORE,Q59,LokiLeoMaxLuna
+group_6_7,6,Q24,Completely false,2,ALL,C12,LokiLeoMaxCoco
+group_6_7,6,Q25,Completely false,3,LESS,Q74,LunaLeoMiaMilo
+group_6_7,6,Q26,Completely false,0,ALL,C13,LeoMaxCocoNala
+group_6_7,6,Q27,Completely true,4,MORE,Q83,NalaMiloTomLoki
+group_6_7,6,Q28,Completely true,4,AND,C14,MaxCocoNalaLuna
+group_6_7,6,Q29,Completely true,4,MANY,Q78,LalaLeoCocoLuna
+group_6_7,6,Q30,Completely false,2,AND,C15,CocoNalaLunaMilo
+group_6_7,6,Q31,Completely true,0,LESS,Q87,TomLokiMaxNala
+group_6_7,6,Q32,Completely false,0,AND,C16,NalaLunaMiloMia
+group_6_7,6,Q33,Completely false,1,MORE,Q61,MaxCocoNalaMia
+group_6_7,6,Q34,Completely true,4,ALL,C17,LunaMiloMiaTom
+group_6_7,6,Q35,Completely false,0,FEW,Q82,CocoLunaMiaLala
+group_6_7,6,Q36,Completely false,2,ALL,C18,MiloMiaTomLala
+group_6_7,6,Q37,Completely false,3,LESS,Q79,LokiMaxNalaMilo
+group_6_7,6,Q38,Completely false,0,ALL,C19,MiaTomLalaLoki
+group_6_7,6,Q39,Completely false,2,MORE,Q70,LeoMiaCocoMax
+group_6_7,6,Q40,Completely true,4,AND,C20,TomLalaLokiLeo
+group_6_7,6,Q41,Completely true,3,FEW,Q69,LokiMiloMaxLeo
+group_6_7,6,Q42,Completely false,2,AND,C21,LalaMaxLunaTom
+group_6_7,6,Q43,Completely true,3,MANY,Q84,LunaMiaLalaLeo
+group_6_7,6,Q44,Completely false,0,AND,C22,LokiCocoMiloLala
+group_6_7,6,Q45,Completely false,2,MORE,Q85,MiloTomLokiMax
+group_6_7,6,Q46,Completely true,4,ALL,C23,LeoNalaMiaLoki
+group_6_7,6,Q47,Completely false,2,LESS,Q60,LeoMaxCocoMilo
+group_6_7,6,Q48,Completely false,2,ALL,C24,MaxLunaTomLeo
+group_6_7,6,Q49,Completely false,0,MORE,Q62,CocoNalaLunaTom
+group_6_7,6,Q50,Completely false,0,ALL,C25,CocoMiloLalaMax
+group_6_7,6,Q51,Completely false,2,LESS,Q80,LeoCocoLunaMia
+group_6_7,6,Q52,Completely true,4,AND,C26,NalaMiaLokiCoco
+group_6_7,6,Q53,Completely true,4,MORE,Q63,NalaLunaMiloLala
+group_6_7,6,Q54,Completely false,2,AND,C27,LunaTomLeoNala
+group_6_7,6,Q55,Completely false,0,MANY,Q77,TomNalaLokiLala
+group_6_7,6,Q56,Completely false,0,AND,C28,MiloLalaMaxLuna
+group_6_7,6,Q57,Neither completely true nor completely false,4,FEW,U1,LalaLokiLeoNala
+group_6_7,6,Q58,Completely true,4,ALL,C29,MiaLokiCocoMilo
+group_6_7,6,Q59,Completely true,1,LESS,Q66,MiaTomLalaMax
+group_6_7,6,Q60,Completely false,2,ALL,C30,TomLeoNalaMia
