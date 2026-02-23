@@ -104,3 +104,20 @@ out_cat <- do.call(rbind, lapply(seq_len(nrow(newdat)), function(i){
   )
 }))
 out_cat
+
+# Category indices
+k_neither <- which(dimnames(ep_cat)[[3]] == "Neither completely true nor completely false")
+k_false   <- which(dimnames(ep_cat)[[3]] == "Completely false")
+k_true    <- which(dimnames(ep_cat)[[3]] == "Completely true")
+
+# DISPLAY=2: AND - ALL (rows 4 - 3)
+diff_neither_disp2_cat <- ep_cat[, 4, k_neither] - ep_cat[, 3, k_neither]
+diff_false_disp2_cat   <- ep_cat[, 4, k_false]   - ep_cat[, 3, k_false]
+
+c(mean=mean(diff_neither_disp2_cat),
+  l95=quantile(diff_neither_disp2_cat,0.025),
+  u95=quantile(diff_neither_disp2_cat,0.975))
+
+c(mean=mean(diff_false_disp2_cat),
+  l95=quantile(diff_false_disp2_cat,0.025),
+  u95=quantile(diff_false_disp2_cat,0.975))
